@@ -1,0 +1,14 @@
+{
+  "strict_lower": "461300/99853",
+  "strict_lower_decimal": "4.61979109290657266181286491141978708701791633701541265660521",
+  "previous_strict_lower": "461300/99951",
+  "improvement": "45207400/9980407203",
+  "improvement_decimal": "0.00452961478229176417302138809335713634208517974835179678389722",
+  "upper": "4675530093604551/1000000000000000",
+  "upper_decimal": "4.675530093604551",
+  "remaining_gap_decimal": "0.0557390006979783381871350885802129129820836629845873433947903",
+  "previous_gap_closed_percent": "7.51571069983282791854605048743050683780565917891920126374817",
+  "exact_minimum_resolved": false,
+  "improved_packing_found": false,
+  "scope": "Verified computer-assisted global lower bound; no literature-priority claim."
+}

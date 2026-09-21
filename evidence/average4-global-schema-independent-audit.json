@@ -1,0 +1,14 @@
+{
+  "status": "PASS_INDEPENDENT_CANDIDATE_SCHEMA_D4_BUDGET",
+  "certificate_sha256": "0288aaac680131aa675adb63ea6a67e3d363fcca6061d4c788301da7c5d69cec",
+  "A": "99853/100000",
+  "bound": "461300/99853",
+  "intervals": 7853,
+  "sites": 8988,
+  "physical_triples": 2008,
+  "minimum_units": 1000020517,
+  "budget_units": 16998427356,
+  "counting_surplus_units": 1921433,
+  "absolute_signed_weight_units": 26431672460,
+  "scope": "Structural and arithmetic premises; exact full geometry replays are separately required."
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS_TWO_COMPLETE_EXACT_REPLAYS",
+  "strict_lower_bound": "461300/99853",
+  "certificate_sha256": "0288aaac680131aa675adb63ea6a67e3d363fcca6061d4c788301da7c5d69cec",
+  "intervals": 7853,
+  "minimum_charge_units": 1000020517,
+  "budget_units": 16998427356,
+  "counting_surplus_units": 1921433,
+  "minimum_containment_margin": "1/1000000000000",
+  "histograms_identical": true
+}

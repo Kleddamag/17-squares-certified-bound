@@ -1,0 +1,11 @@
+{
+  "status": "PASS_AST_IDENTICAL",
+  "functions": [
+    "add",
+    "query",
+    "accumulate",
+    "trig"
+  ],
+  "need": "Identical guard except parameter name msg/message.",
+  "exact_mixed": "Byte identical after import redirection to portable integer_sweep."
+}

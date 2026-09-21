@@ -1,0 +1,15 @@
+{
+  "certificate_sha256": "0288aaac680131aa675adb63ea6a67e3d363fcca6061d4c788301da7c5d69cec",
+  "parent_side": "99853/100000",
+  "bound": "461300/99853",
+  "intervals": 7853,
+  "budget_units": 16998427356,
+  "minimum_units": 1000020517,
+  "strict_core_margin": "1/1000000000000",
+  "counting_surplus_units": 1921433,
+  "status": "PASS_TWO_COMPLETE_EXACT_REPLAYS",
+  "histograms_identical": true,
+  "python_cells": 1641130192125,
+  "python_slabs": 124557987,
+  "javascript_slabs": 124542281
+}

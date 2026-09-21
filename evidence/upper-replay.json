@@ -1,0 +1,8 @@
+{
+  "status": "PASS_EXACT_UPPER_PACKING_REPLAY",
+  "certificate_sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+  "unit_squares": 17,
+  "contained_vertices": 68,
+  "nonoverlap_pairs": 136,
+  "side": "4675530093604551/1000000000000000"
+}

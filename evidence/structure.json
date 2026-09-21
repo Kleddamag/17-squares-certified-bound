@@ -1,0 +1,11 @@
+{
+  "available_point_orbits": 1134,
+  "physical_sites": 8988,
+  "positive_point_orbits": 852,
+  "positive_sites": 6744,
+  "threshold_orbits": 253,
+  "physical_triples": 2008,
+  "point_budget_units": 14640116080,
+  "threshold_budget_units": 2358311276,
+  "total_budget_units": 16998427356
+}

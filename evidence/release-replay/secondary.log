@@ -1,0 +1,32 @@
+{
+  "status": "PASS_FULL_EXACT_BIGINT_REPLAY",
+  "certificate_sha256": "0288aaac680131aa675adb63ea6a67e3d363fcca6061d4c788301da7c5d69cec",
+  "parent_side": "99853/100000",
+  "range": [
+    0,
+    7853
+  ],
+  "ranges": [
+    [
+      0,
+      1963
+    ],
+    [
+      1963,
+      3926
+    ],
+    [
+      3926,
+      5889
+    ],
+    [
+      5889,
+      7853
+    ]
+  ],
+  "budget_units": 16998427356,
+  "minimum_units": 1000020517,
+  "center_slabs": 124542281,
+  "escape_rows": [],
+  "seconds": 121.92609645800258
+}

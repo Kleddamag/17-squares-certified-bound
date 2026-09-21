@@ -1,0 +1,94 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_CONTROLS",
+  "certificate_sha256": "0288aaac680131aa675adb63ea6a67e3d363fcca6061d4c788301da7c5d69cec",
+  "scope": "Universal rational quadratic containment plus selected direct logical boundary charges; not a replacement for all-centre sweep.",
+  "containment": {
+    "intervals": 7853,
+    "quadratic_inequalities": 31412,
+    "minimum_positive_quadratic_numerator": "6042294182550478202848514746385152302481/4403012567040000000000000000000000000000000000000000"
+  },
+  "boundary_samples": {
+    "rows": [
+      {
+        "row": 0,
+        "centres": 313,
+        "minimum_charge": 1002070341,
+        "capture_boundary_hits": 488,
+        "logical_signed_checks": 628504
+      },
+      {
+        "row": 1,
+        "centres": 313,
+        "minimum_charge": 1002070341,
+        "capture_boundary_hits": 488,
+        "logical_signed_checks": 628504
+      },
+      {
+        "row": 2,
+        "centres": 313,
+        "minimum_charge": 1002070341,
+        "capture_boundary_hits": 488,
+        "logical_signed_checks": 628504
+      },
+      {
+        "row": 19,
+        "centres": 313,
+        "minimum_charge": 1002070341,
+        "capture_boundary_hits": 488,
+        "logical_signed_checks": 628504
+      },
+      {
+        "row": 500,
+        "centres": 313,
+        "minimum_charge": 1002070341,
+        "capture_boundary_hits": 488,
+        "logical_signed_checks": 628504
+      },
+      {
+        "row": 1500,
+        "centres": 309,
+        "minimum_charge": 1002070341,
+        "capture_boundary_hits": 484,
+        "logical_signed_checks": 620472
+      },
+      {
+        "row": 3000,
+        "centres": 309,
+        "minimum_charge": 1003395154,
+        "capture_boundary_hits": 484,
+        "logical_signed_checks": 620472
+      },
+      {
+        "row": 4500,
+        "centres": 309,
+        "minimum_charge": 1003568533,
+        "capture_boundary_hits": 484,
+        "logical_signed_checks": 620472
+      },
+      {
+        "row": 6000,
+        "centres": 301,
+        "minimum_charge": 1005240548,
+        "capture_boundary_hits": 468,
+        "logical_signed_checks": 604408
+      },
+      {
+        "row": 7851,
+        "centres": 305,
+        "minimum_charge": 1002070496,
+        "capture_boundary_hits": 472,
+        "logical_signed_checks": 612440
+      },
+      {
+        "row": 7852,
+        "centres": 305,
+        "minimum_charge": 1002070496,
+        "capture_boundary_hits": 472,
+        "logical_signed_checks": 612440
+      }
+    ],
+    "total_centres": 3403,
+    "minimum_sampled_charge": 1002070341
+  },
+  "seconds": 96.47580649999873
+}
