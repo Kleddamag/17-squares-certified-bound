@@ -1,3 +1,5 @@
+> Historical v1.0.0 material for 4.619791…; see the [current 4.640020 package](bounds/4.640020/README.md).
+
 # A verified lower bound for seventeen unit squares
 
 For seventeen arbitrarily oriented unit squares with disjoint interiors, allowing boundary contact,

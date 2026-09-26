@@ -1,5 +1,12 @@
 # Release history
 
+## v1.1.0 — Verified bound 232001/50000 = 4.640020
+
+- Add the exact fixed certificate, proof and two complete portable replay paths under `bounds/4.640020/`.
+- Include full original and coordinator replay receipts, source identities and publication checks.
+- Combine ordinary point charges, weighted thresholds and pairwise-intersecting subset rules.
+- Preserve the earlier release and unchanged upper packing. No better packing or exact optimum is claimed.
+
 ## v1.0.0 — Verified bound 461300/99853
 
 - Publish the exact certificate proving `s(17) > 461300/99853`.

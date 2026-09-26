@@ -71,3 +71,9 @@ checker, the adapted secondary checker, independent premise controls and
 completed verification records. Numerical optimization and AI exploration
 found the input; they are not premises of the proof. The human/AI division of
 work is explained in [AUTHORS.md](AUTHORS.md).
+
+## The 4.640020 continuation (v1.1.0)
+
+The current certificate proves `s(17)>232001/50000`. It continues the same attributed weighted-covering and strict-core lineage, with larger charge dictionaries, ordinary k-of-n thresholds, weighted thresholds and pairwise-intersecting winning-subset rules. Separate Codex tasks combined completed geometry and counterexamples before reoptimization and exact verification. We make no claim that these general mathematical ideas were newly invented here.
+
+The newly bundled `bounds/4.640020/verify_global_variable.js` is this project's separately implemented general-rule BigInt checker, paired with the general-rule Python polygon sweep. It is distinct from the legacy R038 download/adaptation path retained for v1.0.0. The new certificate and both engines were fully replayed together before release. No code from the colleague's later R052/C++ repository was used. The earlier source pins and notices above remain part of the historical lineage.

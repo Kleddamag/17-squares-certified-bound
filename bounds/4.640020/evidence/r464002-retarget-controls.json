@@ -1,0 +1,31 @@
+{
+  "status": "PASS_EXACT_RETARGET_IDENTITY_GEOMETRY_AND_NEGATIVE_CONTROLS",
+  "target": "232001/50000",
+  "source": "u04",
+  "certificate_sha256": "5f4f0988acc23b738bdf29ee855b9827cda10fce0e12a7b3a78e6923cc5f8dda",
+  "minimum_strict_margin": "1/100000000000",
+  "intervals": 2048,
+  "rejections": [
+    {
+      "name": "wrong_budget",
+      "node_exit": 1
+    },
+    {
+      "name": "angle_gap",
+      "node_exit": 1
+    },
+    {
+      "name": "non_strict",
+      "node_exit": 1
+    },
+    {
+      "name": "missing_orbit",
+      "node_exit": 1
+    },
+    {
+      "name": "false_target_metadata",
+      "node_exit": 1
+    }
+  ],
+  "verified_utc": "2026-09-25T19:36:37.287314+00:00"
+}

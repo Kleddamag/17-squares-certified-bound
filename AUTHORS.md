@@ -27,3 +27,7 @@ maintainer or the AI system. Corrections and external verification are welcome.
 Upstream contributions are identified in [ATTRIBUTION.md](ATTRIBUTION.md).
 Attribution does not imply upstream endorsement, coauthorship of this
 continuation, or approval of its claims.
+
+## The 4.640020 continuation
+
+Kleddamag directed successive research comparisons, asked that completed findings be shared, and authorized this release. Separate Codex research tasks developed ordinary threshold geometry and weighted/intersecting rules, combined their retained evidence, and constructed and exactly checked the 4.640020 certificate. A coordinating Codex task replayed both full implementations and prepared the portable publication package. The C++ performance work is separate from this release's Python/JavaScript proof paths. This does not change the distinction above between human direction, AI mathematical/implementation work and independent human peer review.

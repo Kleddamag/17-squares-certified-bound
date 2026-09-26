@@ -1,0 +1,41 @@
+{
+  "status": "PASS_COMPLETE_SEVENTEEN_SQUARE_EXCLUSION",
+  "side_bound": "s(17)>232001/50000",
+  "target": "232001/50000",
+  "certificate_sha256": "5f4f0988acc23b738bdf29ee855b9827cda10fce0e12a7b3a78e6923cc5f8dda",
+  "budget_units": 16978369232,
+  "minimum_units": 998727933,
+  "surplus": 5629,
+  "ratio": "16978369232/998727933",
+  "intervals": 2048,
+  "verified_utc": "2026-09-26T06:46:52.097630+00:00",
+  "processes": [
+    {
+      "command": [
+        "python",
+        "bounds/4.640020/verify_global_python.py",
+        "bounds/4.640020/certificate.json",
+        ".replay-runs/publication/python.json",
+        "1"
+      ],
+      "returncode": 0
+    },
+    {
+      "command": [
+        "node",
+        "bounds/4.640020/verify_global_variable.js",
+        "bounds/4.640020/certificate.json",
+        ".replay-runs/publication/node-0.json",
+        "0",
+        "2048",
+        "audit"
+      ],
+      "returncode": 0
+    }
+  ],
+  "publication_metadata": {
+    "command_paths_normalized": true,
+    "original_local_receipt_sha256": "f502780d8b484cb2bd7ce9710dc1aabc76a59e6cef0085e181a6a0f24207ba52",
+    "note": "Arithmetic results, certificate identity and timestamps are unchanged; local paths only are normalized."
+  }
+}

@@ -32,3 +32,7 @@ preserved; neither is represented as a blanket licence for all upstream work.
 
 Python, Node.js, NumPy, Numba and llvmlite are installed dependencies, not
 vendored runtime distributions. Their own licences apply to those packages.
+
+## v1.1.0 checker scope
+
+The new `bounds/4.640020/` package contains this project's general-rule Python and JavaScript implementations and the new fixed rational certificate. Its replay has no source download step and does not use the old reconstructed R038 checker. The legacy download/adaptation mechanism and its licensing limitations above apply to the preserved v1.0.0 proof path. No third-party C++ implementation or compiled runtime is bundled in this release.

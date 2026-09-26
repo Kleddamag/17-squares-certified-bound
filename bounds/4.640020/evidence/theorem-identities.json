@@ -1,0 +1,11 @@
+{
+  "note": "The certificate and both geometric engines retain their previously fully replayed bytes. The portable verify.py launcher is publication-specific.",
+  "files": {
+    "certificate.json": "5f4f0988acc23b738bdf29ee855b9827cda10fce0e12a7b3a78e6923cc5f8dda",
+    "verify_global_python.py": "c4ace7ff58bdc6593cf6ec3179f2914aa81e0f0f2a16db1332915a45dcb0a219",
+    "verify_global_variable.js": "c22091862df631f8cfd1f1bb8e5013f0b9c216f20be268fcd7104768919c49b7",
+    "global_src/exact_general.py": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+    "global_src/boolean_rule.py": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275",
+    "global_src/integer_sweep.py": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b"
+  }
+}
