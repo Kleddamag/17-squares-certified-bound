@@ -31,3 +31,7 @@ continuation, or approval of its claims.
 ## The 4.640020 continuation
 
 Kleddamag directed successive research comparisons, asked that completed findings be shared, and authorized this release. Separate Codex research tasks developed ordinary threshold geometry and weighted/intersecting rules, combined their retained evidence, and constructed and exactly checked the 4.640020 certificate. A coordinating Codex task replayed both full implementations and prepared the portable publication package. The C++ performance work is separate from this release's Python/JavaScript proof paths. This does not change the distinction above between human direction, AI mathematical/implementation work and independent human peer review.
+
+## The 4.66001 continuation
+
+Kleddamag directed the C/D research comparisons and authorized this GitHub update. The certificate combines completed charges from both Codex tasks; eight orientation intervals were subdivided with regenerated strict cores. A coordinating Codex task replayed both full mathematical implementations and prepared this portable package. No independent human peer review is claimed.

@@ -36,3 +36,7 @@ vendored runtime distributions. Their own licences apply to those packages.
 ## v1.1.0 checker scope
 
 The new `bounds/4.640020/` package contains this project's general-rule Python and JavaScript implementations and the new fixed rational certificate. Its replay has no source download step and does not use the old reconstructed R038 checker. The legacy download/adaptation mechanism and its licensing limitations above apply to the preserved v1.0.0 proof path. No third-party C++ implementation or compiled runtime is bundled in this release.
+
+## The 4.66001 checker scope
+
+The new package reuses this project's same general-rule Python and JavaScript engines from `bounds/4.640020/`. Their licence and attribution scope is unchanged. The legacy R038 download/adaptation path is not used by the new replay.

@@ -1,5 +1,11 @@
 # Release history
 
+## Unreleased — verified bound 466001/100000 = 4.66001
+
+- Add the already proved fixed certificate and 2,168-interval full Python/Node replays.
+- Keep mathematical engines byte-identical; update portable launcher target and interval count.
+- Preserve previous proof packages and release tags. No 4.67 claim or improved packing.
+
 ## v1.1.0 — Verified bound 232001/50000 = 4.640020
 
 - Add the exact fixed certificate, proof and two complete portable replay paths under `bounds/4.640020/`.

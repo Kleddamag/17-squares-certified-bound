@@ -1,0 +1,25 @@
+{
+  "note": "Certificate and geometric engines are byte-identical to the completed September 26 coordinator replay. Only the portable launcher and control target/interval selections are adapted.",
+  "files": {
+    "certificate.json": "280af3d46150ca990917d714d83ee73baf4e6c45a0563090bf35588fb22de6e5",
+    "verify_global_python.py": "c4ace7ff58bdc6593cf6ec3179f2914aa81e0f0f2a16db1332915a45dcb0a219",
+    "verify_global_variable.js": "c22091862df631f8cfd1f1bb8e5013f0b9c216f20be268fcd7104768919c49b7",
+    "global_src/exact_general.py": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+    "global_src/integer_sweep.py": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+    "global_src/boolean_rule.py": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275"
+  },
+  "first_full_verification_utc": "2026-09-26T15:37:09.622849+00:00",
+  "coordinator_replay_completed_utc": "2026-09-26T15:42:25.066491+00:00",
+  "premises_review": {
+    "exact_target_identity": true,
+    "strict_core_margins_and_parent_center_envelopes": true,
+    "gap_free_orientation_chain_including_endpoints": true,
+    "continuous_center_coverage_with_monotone_boundary_extension": true,
+    "nonnegative_weights_and_complete_D4_orbits": true,
+    "global_threshold_and_intersecting_rule_budgets": true,
+    "arbitrary_precision_geometry_and_absolute_charge_bound_below_2pow50": true,
+    "all_2168_saved_and_fresh_Python_Node_minima_and_cell_counts_match": true,
+    "compactness_upgrades_exclusion_at_target_to_strict_s17_bound": true,
+    "formal_proof_assistant_claim": false
+  }
+}

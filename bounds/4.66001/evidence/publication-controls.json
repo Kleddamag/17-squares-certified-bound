@@ -1,0 +1,1899 @@
+{
+  "status": "PASS_RULE_BUDGET_SWEEP_AND_NEGATIVE_CONTROLS",
+  "certificate_sha256": "280af3d46150ca990917d714d83ee73baf4e6c45a0563090bf35588fb22de6e5",
+  "minimum_strict_margin": "392478867597353819118463778084255632092881/3924746160389721196149315877767064480928810000000000",
+  "patterns": [
+    {
+      "coefficients": [
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [],
+      "boolean_patterns": 2,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1
+      ],
+      "threshold": 2,
+      "winning_masks": [],
+      "boolean_patterns": 8,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "threshold": 3,
+      "winning_masks": [],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        64
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        2
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 3,
+      "winning_masks": [],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        12,
+        20,
+        27,
+        37,
+        57,
+        58,
+        89,
+        102
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        23,
+        33,
+        34,
+        36,
+        56
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        11,
+        14,
+        26,
+        35,
+        38,
+        42,
+        50,
+        66,
+        93,
+        104,
+        117
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        21,
+        22,
+        28,
+        37,
+        38,
+        43,
+        49,
+        58,
+        71,
+        75,
+        77,
+        83,
+        100,
+        112
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        6,
+        13,
+        26,
+        42,
+        53
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        20,
+        27,
+        37,
+        46,
+        49,
+        50,
+        56,
+        83,
+        89,
+        102,
+        108
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        14,
+        22,
+        26,
+        34,
+        66,
+        108,
+        116,
+        120
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        1
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        4,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 5,
+      "winning_masks": [],
+      "boolean_patterns": 64,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        9,
+        10
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        6,
+        12,
+        20,
+        26
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        9,
+        10,
+        12
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        26,
+        28,
+        70,
+        72,
+        80
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        12,
+        25,
+        26,
+        41,
+        42,
+        56,
+        72,
+        87,
+        103,
+        116
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 4,
+      "winning_masks": [],
+      "boolean_patterns": 64,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        11,
+        13,
+        14,
+        25,
+        26,
+        28,
+        39,
+        40,
+        51,
+        53,
+        54
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        19,
+        21,
+        22,
+        25,
+        35,
+        37,
+        46,
+        49,
+        50,
+        52,
+        56
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        27,
+        39,
+        52,
+        58,
+        99,
+        101,
+        102,
+        108,
+        113,
+        114,
+        135,
+        149,
+        150,
+        161,
+        162,
+        168,
+        198,
+        205,
+        209,
+        212,
+        293,
+        307,
+        460,
+        466
+      ],
+      "boolean_patterns": 512,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        11,
+        19,
+        29,
+        30,
+        35,
+        37,
+        41,
+        46,
+        49,
+        50,
+        56,
+        85,
+        89,
+        102,
+        106
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        2
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 4,
+      "winning_masks": [],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        23,
+        29,
+        30,
+        35,
+        36,
+        41,
+        42,
+        49,
+        50,
+        56
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        22,
+        46,
+        60,
+        68,
+        74,
+        82,
+        88,
+        98,
+        112
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        9,
+        10
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        1
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        5,
+        6
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        8
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        5,
+        9,
+        12
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        6,
+        11,
+        12,
+        21,
+        26
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        11,
+        14,
+        18,
+        21
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        9,
+        14,
+        19,
+        21,
+        28,
+        37,
+        56
+      ],
+      "boolean_patterns": 64,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        4
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        23,
+        27,
+        29,
+        30,
+        38,
+        42,
+        44,
+        50,
+        52,
+        70,
+        90,
+        92,
+        99,
+        101,
+        105,
+        112
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        5,
+        6,
+        11,
+        12
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        6,
+        10,
+        12
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        9,
+        10,
+        12
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        2
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        9,
+        14,
+        19,
+        28
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        11,
+        17,
+        24,
+        45,
+        77
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        11,
+        13,
+        19,
+        22,
+        24
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        13,
+        14,
+        19,
+        22,
+        24
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        6,
+        13
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        13,
+        14,
+        25,
+        26
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        17,
+        18
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        11,
+        19,
+        21,
+        28,
+        38,
+        49,
+        58,
+        90,
+        101,
+        120
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        9,
+        40,
+        51,
+        103,
+        113
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        10,
+        13
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        10,
+        12
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        12,
+        22,
+        24
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        32
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        5,
+        9,
+        14,
+        35,
+        60,
+        83,
+        108
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 5,
+      "winning_masks": [],
+      "boolean_patterns": 256,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        11,
+        17,
+        18,
+        24
+      ],
+      "boolean_patterns": 64,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        13,
+        21,
+        33,
+        36,
+        58,
+        71,
+        120
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        14,
+        21,
+        35,
+        36,
+        41,
+        50,
+        56
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        6,
+        10,
+        13
+      ],
+      "boolean_patterns": 16,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        12,
+        27,
+        37,
+        38,
+        41,
+        42,
+        52
+      ],
+      "boolean_patterns": 64,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        4
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        13,
+        14,
+        19,
+        20,
+        25,
+        26
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        3,
+        5,
+        6
+      ],
+      "boolean_patterns": 8,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        21,
+        28,
+        37,
+        38,
+        41,
+        49,
+        58,
+        71,
+        75,
+        77,
+        83,
+        100,
+        112
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        113,
+        402,
+        676,
+        840
+      ],
+      "boolean_patterns": 1024,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        25,
+        42,
+        52
+      ],
+      "boolean_patterns": 64,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        7,
+        9,
+        10,
+        19,
+        28
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        14,
+        22,
+        26,
+        34,
+        45,
+        57,
+        67,
+        74,
+        108,
+        116,
+        120
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        30,
+        43,
+        48,
+        87,
+        88,
+        98,
+        101
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        6,
+        13,
+        28,
+        51,
+        83,
+        106,
+        117
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        43,
+        45,
+        55,
+        65,
+        88,
+        96
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        6,
+        11,
+        19,
+        35,
+        53,
+        60,
+        77,
+        82,
+        98
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        13,
+        19,
+        20,
+        26,
+        38,
+        49,
+        56
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        6,
+        13,
+        35,
+        36,
+        42
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        10,
+        29,
+        35,
+        38,
+        40,
+        50
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        13,
+        20,
+        24,
+        78
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        19,
+        28,
+        37,
+        38,
+        41,
+        42,
+        48
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        6,
+        66,
+        68
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        18,
+        43,
+        99,
+        110,
+        116,
+        120
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        27,
+        43,
+        65,
+        66,
+        72,
+        116
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        8
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        15,
+        27,
+        30,
+        34,
+        40,
+        49,
+        52,
+        90,
+        101
+      ],
+      "boolean_patterns": 128,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "threshold": 1,
+      "winning_masks": [
+        1
+      ],
+      "boolean_patterns": 32,
+      "maximum_disjoint_winners": 1,
+      "budget": 1
+    }
+  ],
+  "direct_sweeps": [
+    {
+      "interval": 0,
+      "minimum": 1000026844,
+      "cells": 420276657,
+      "node_matched": true
+    },
+    {
+      "interval": 541,
+      "minimum": 1000026844,
+      "cells": 456887769,
+      "node_matched": true
+    },
+    {
+      "interval": 1084,
+      "minimum": 1000026844,
+      "cells": 448691289,
+      "node_matched": true
+    },
+    {
+      "interval": 2167,
+      "minimum": 1000026844,
+      "cells": 434898977,
+      "node_matched": true
+    }
+  ],
+  "negative_controls": [
+    {
+      "name": "budget",
+      "python_rejection": "budget/overflow",
+      "node_exit": 1
+    },
+    {
+      "name": "zero-coefficient",
+      "python_rejection": "invalid site coefficients",
+      "node_exit": 1
+    },
+    {
+      "name": "wrong-coefficient",
+      "python_rejection": "budget/overflow",
+      "node_exit": 1
+    },
+    {
+      "name": "missing-image",
+      "python_rejection": "incomplete trigger orbit",
+      "node_exit": 1
+    },
+    {
+      "name": "angle-gap",
+      "python_rejection": "catalogue coverage",
+      "node_exit": 1
+    },
+    {
+      "name": "non-strict-core",
+      "python_rejection": "catalogue coverage",
+      "node_exit": 1
+    },
+    {
+      "name": "false-target",
+      "python_rejection": "target identity",
+      "node_exit": 1
+    },
+    {
+      "name": "disjoint-rule-winners",
+      "python_rejection": "invalid intersecting rule",
+      "node_exit": 1
+    }
+  ],
+  "verified_utc": "2026-09-27T14:22:32.854680+00:00"
+}

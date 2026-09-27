@@ -1,0 +1,19 @@
+{
+  "status": "PASS_COMPLETE_SEVENTEEN_SQUARE_EXCLUSION",
+  "side_bound": "s(17)>466001/100000",
+  "target": "466001/100000",
+  "certificate_sha256": "280af3d46150ca990917d714d83ee73baf4e6c45a0563090bf35588fb22de6e5",
+  "budget_units": 17000402008,
+  "minimum_units": 1000026844,
+  "surplus": 54340,
+  "ratio": "4250100502/250006711",
+  "intervals": 2168,
+  "verified_utc": "2026-09-27T14:24:55.841652+00:00",
+  "provenance": "Fresh portable-package replay. Machine-local command paths omitted; full mathematical interval receipts retained.",
+  "certificate_path": "bounds/4.66001/certificate.json",
+  "verification_instructions": "bounds/4.66001/README.md",
+  "previous_released_bound": "232001/50000",
+  "upper_bound": "4675530093604551/1000000000000000",
+  "exact_minimum_resolved": false,
+  "improved_packing_found": false
+}

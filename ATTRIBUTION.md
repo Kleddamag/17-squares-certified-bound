@@ -77,3 +77,7 @@ work is explained in [AUTHORS.md](AUTHORS.md).
 The current certificate proves `s(17)>232001/50000`. It continues the same attributed weighted-covering and strict-core lineage, with larger charge dictionaries, ordinary k-of-n thresholds, weighted thresholds and pairwise-intersecting winning-subset rules. Separate Codex tasks combined completed geometry and counterexamples before reoptimization and exact verification. We make no claim that these general mathematical ideas were newly invented here.
 
 The newly bundled `bounds/4.640020/verify_global_variable.js` is this project's separately implemented general-rule BigInt checker, paired with the general-rule Python polygon sweep. It is distinct from the legacy R038 download/adaptation path retained for v1.0.0. The new certificate and both engines were fully replayed together before release. No code from the colleague's later R052/C++ repository was used. The earlier source pins and notices above remain part of the historical lineage.
+
+## The 4.66001 continuation
+
+The package under `bounds/4.66001/` continues the same attributed weighted-covering and strict-core method. It preserves the general-rule Python and separately implemented BigInt engines from the 4.640020 package byte-for-byte. It combines two completed charge candidates and regenerates strict cores for refined orientation intervals. No novelty claim is made for the general method, and no external Guzhou source or C++ code is included in or executed by this proof path.
