@@ -1,0 +1,204 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_CLOSED_ATLAS_CHUNK",
+  "metadata_sha256": "37207cf4ade21d3b2733436b086d0d0f164d7d03f49c88f9d4bac35f649fea09",
+  "build_sha256": "608fca3a7db87f4b4bc3f7072f0d0609c878c8a80774731f1cfffdde0d5dc45d",
+  "start": 0,
+  "end": 32,
+  "rows": [
+    {
+      "angle": 0,
+      "illegal": 348,
+      "retained": 488,
+      "high": 188
+    },
+    {
+      "angle": 1,
+      "illegal": 348,
+      "retained": 520,
+      "high": 156
+    },
+    {
+      "angle": 2,
+      "illegal": 348,
+      "retained": 532,
+      "high": 144
+    },
+    {
+      "angle": 3,
+      "illegal": 348,
+      "retained": 556,
+      "high": 120
+    },
+    {
+      "angle": 4,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 5,
+      "illegal": 448,
+      "retained": 484,
+      "high": 92
+    },
+    {
+      "angle": 6,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 7,
+      "illegal": 448,
+      "retained": 480,
+      "high": 96
+    },
+    {
+      "angle": 8,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 9,
+      "illegal": 448,
+      "retained": 496,
+      "high": 80
+    },
+    {
+      "angle": 10,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 11,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 12,
+      "illegal": 448,
+      "retained": 508,
+      "high": 68
+    },
+    {
+      "angle": 13,
+      "illegal": 448,
+      "retained": 508,
+      "high": 68
+    },
+    {
+      "angle": 14,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 15,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 16,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 17,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 18,
+      "illegal": 448,
+      "retained": 488,
+      "high": 88
+    },
+    {
+      "angle": 19,
+      "illegal": 448,
+      "retained": 472,
+      "high": 104
+    },
+    {
+      "angle": 20,
+      "illegal": 448,
+      "retained": 468,
+      "high": 108
+    },
+    {
+      "angle": 21,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 22,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 23,
+      "illegal": 448,
+      "retained": 444,
+      "high": 132
+    },
+    {
+      "angle": 24,
+      "illegal": 448,
+      "retained": 452,
+      "high": 124
+    },
+    {
+      "angle": 25,
+      "illegal": 448,
+      "retained": 444,
+      "high": 132
+    },
+    {
+      "angle": 26,
+      "illegal": 348,
+      "retained": 536,
+      "high": 140
+    },
+    {
+      "angle": 27,
+      "illegal": 348,
+      "retained": 516,
+      "high": 160
+    },
+    {
+      "angle": 28,
+      "illegal": 348,
+      "retained": 504,
+      "high": 172
+    },
+    {
+      "angle": 29,
+      "illegal": 348,
+      "retained": 476,
+      "high": 200
+    },
+    {
+      "angle": 30,
+      "illegal": 348,
+      "retained": 464,
+      "high": 212
+    },
+    {
+      "angle": 31,
+      "illegal": 348,
+      "retained": 456,
+      "high": 220
+    }
+  ],
+  "checked_site_predicates": 2650624,
+  "scope": "Full domain partition and sound high-charge deletions for the low-charge anchor only, all A in stated interval; no joint packing infeasibility or exact optimum.",
+  "verified_utc": "2026-09-29T19:01:55.326Z"
+}

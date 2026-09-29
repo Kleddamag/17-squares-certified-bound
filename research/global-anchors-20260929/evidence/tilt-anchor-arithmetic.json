@@ -1,0 +1,11 @@
+{
+  "status": "PASS_EXACT_TILT_ANCHOR_ARITHMETIC",
+  "known_feasible_cap": "4675530093604551/1000000000000000",
+  "nearest_axis_half_angle_cutoff": "1/28",
+  "maximum_cos_plus_sin": "839/785",
+  "five_minus_U_times_support": "2230251465781711/785000000000000000",
+  "strict_margin_positive": true,
+  "necessary_statement": "Every seventeen-square packing at side S<=U contains a square whose angular distance from the nearest container axis is greater than2*atan(1/28).",
+  "scope": "Exact arithmetic check; the geometric core/pigeonhole proof is in GLOBAL_PROOF_ROUTE.md. No optimum or localization is proved.",
+  "verified_utc": "2026-09-29T18:21:16.447Z"
+}

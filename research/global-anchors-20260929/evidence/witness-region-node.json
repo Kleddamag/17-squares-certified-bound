@@ -1,0 +1,14 @@
+{
+  "status": "PASS_INDEPENDENT_RATIONAL_REGION_PREDICATES",
+  "threshold": "1000023647",
+  "rows": [
+    {
+      "low_charge": true,
+      "outside_corner_region": true,
+      "center_farther_than_A_from_every_wall": true
+    }
+  ],
+  "corner_localization_counterexample": true,
+  "interior_low_charge_counterexample": true,
+  "verified_utc": "2026-09-29T18:14:55.353Z"
+}

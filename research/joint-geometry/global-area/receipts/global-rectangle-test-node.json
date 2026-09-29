@@ -1,0 +1,33 @@
+{
+  "status": "PASS_COMPLETE_GLOBAL_RECTANGLE_CAPACITIES_AND_EXACT_RELAXED_SURVIVOR",
+  "target": "467001/100000",
+  "rectangles": 18496,
+  "active_capacity_rows": 16999,
+  "old_relaxed_witness_violations": 1,
+  "selected_cells": [
+    3,
+    9,
+    28,
+    49,
+    68,
+    75,
+    95,
+    117,
+    144,
+    156,
+    166,
+    175,
+    179,
+    222,
+    240,
+    246,
+    251
+  ],
+  "exact_relaxed_survivor": true,
+  "all17_independent_angles_retained": true,
+  "physical_packing": false,
+  "global_infeasibility": false,
+  "scope": "Every physical packing obeys all rectangle capacity rows. The selected17cell witness satisfies this strengthened center-only relaxation; it is not a square packing.",
+  "certificate_sha256": "a09538821f488463d734960fc93b72733085577eb7dd5f6129c8b83d41d5a8f3",
+  "utc": "2026-09-29T18:21:43.332Z"
+}

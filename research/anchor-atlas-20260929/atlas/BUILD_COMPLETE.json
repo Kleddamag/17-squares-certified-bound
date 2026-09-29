@@ -1,0 +1,238 @@
+{
+  "status": "COMPLETE_PRODUCER_PENDING_INDEPENDENT_CHECK",
+  "total_cells": 32768,
+  "legal_outer_cells": 19432,
+  "high_charge_cells": 3816,
+  "retained_low_anchor_cells": 15616,
+  "statistics": [
+    {
+      "angle": 0,
+      "illegal": 348,
+      "retained": 488,
+      "high": 188
+    },
+    {
+      "angle": 1,
+      "illegal": 348,
+      "retained": 520,
+      "high": 156
+    },
+    {
+      "angle": 2,
+      "illegal": 348,
+      "retained": 532,
+      "high": 144
+    },
+    {
+      "angle": 3,
+      "illegal": 348,
+      "retained": 556,
+      "high": 120
+    },
+    {
+      "angle": 4,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 5,
+      "illegal": 448,
+      "retained": 484,
+      "high": 92
+    },
+    {
+      "angle": 6,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 7,
+      "illegal": 448,
+      "retained": 480,
+      "high": 96
+    },
+    {
+      "angle": 8,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 9,
+      "illegal": 448,
+      "retained": 496,
+      "high": 80
+    },
+    {
+      "angle": 10,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 11,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 12,
+      "illegal": 448,
+      "retained": 508,
+      "high": 68
+    },
+    {
+      "angle": 13,
+      "illegal": 448,
+      "retained": 508,
+      "high": 68
+    },
+    {
+      "angle": 14,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 15,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 16,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 17,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 18,
+      "illegal": 448,
+      "retained": 488,
+      "high": 88
+    },
+    {
+      "angle": 19,
+      "illegal": 448,
+      "retained": 472,
+      "high": 104
+    },
+    {
+      "angle": 20,
+      "illegal": 448,
+      "retained": 468,
+      "high": 108
+    },
+    {
+      "angle": 21,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 22,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 23,
+      "illegal": 448,
+      "retained": 444,
+      "high": 132
+    },
+    {
+      "angle": 24,
+      "illegal": 448,
+      "retained": 452,
+      "high": 124
+    },
+    {
+      "angle": 25,
+      "illegal": 448,
+      "retained": 444,
+      "high": 132
+    },
+    {
+      "angle": 26,
+      "illegal": 348,
+      "retained": 536,
+      "high": 140
+    },
+    {
+      "angle": 27,
+      "illegal": 348,
+      "retained": 516,
+      "high": 160
+    },
+    {
+      "angle": 28,
+      "illegal": 348,
+      "retained": 504,
+      "high": 172
+    },
+    {
+      "angle": 29,
+      "illegal": 348,
+      "retained": 476,
+      "high": 200
+    },
+    {
+      "angle": 30,
+      "illegal": 348,
+      "retained": 464,
+      "high": 212
+    },
+    {
+      "angle": 31,
+      "illegal": 348,
+      "retained": 456,
+      "high": 220
+    }
+  ],
+  "metadata_sha256": "37207cf4ade21d3b2733436b086d0d0f164d7d03f49c88f9d4bac35f649fea09",
+  "angle_sha256": [
+    "b00c18bb8bd19162b7e33d031943f00eb32d7f59b3d30d781e66226bd793be33",
+    "862bb0af67cd3fa22d13b65b9710f269b4e73518f94044f097afe7b920b1d0b9",
+    "8d268ef2bdad95e6377dc969bc1432e6ca1e759875c53317d816b70b6065ee15",
+    "ad0803363a51c03b1d512373d902c1fb878b01838957e4aca1967f535e1256b4",
+    "ea42a1213e269847d0d17a97abc82aaae7ff5d16e1c74cb90c2a43580265ff57",
+    "6901b40a73582c7cbbe462ca9fb4ca5521a122a752820773bb96fdd59b3ce1a3",
+    "ba02b35f11d3852ea0777288091737e7cbafecc2e96048071bc03cf99e49b50d",
+    "7d6bd47a1b1edb90d552e1c77baa6b27d8d5b3f10ad7e3071e7b1c4f632a3763",
+    "7c638edff594c949d5120eb6126f079545c3659474f4d2ccbf0c42eb20d1b583",
+    "e0341d1e3f35f0dcf66a8326c9d919beb316f4c189e6cbd0af6587e0c61d8c26",
+    "c0a33bdfd564bab97bf53efeab02c5c930e6d4f3e0f7f4a0ada47606363e85e0",
+    "9515be026597c5e644a5d2207fb449be4359df21d1b45a7cfa4a804c54aa2792",
+    "a7440fc18211bbf2c025d51b262695f543b869071114c5d1fcff49a5abe68751",
+    "81511a1253ec20b7eec45e937cf3036b206e1d434fccbd3ced3dc3b1fe14757f",
+    "2b0c5a7c0e7519e6bc0109d0e797be45c91541eaf9bcfff6561aa6739b3fbaa0",
+    "98c2960cd9d5a498f19583c5b1cc5a5664892e7214fec7d59e960536bfb25552",
+    "ec1202628432765eda170bfe06a80e8aec205b5f6a5bbcbf95768e35ef445414",
+    "b7a0212a501905745cea29180d02f77bda43d13237557b9345a4c124ce3ceda4",
+    "4dd34df9df5fa93b1b877a49828d3d7b17faa168c76d504c61d9abc0f5094ba9",
+    "0494128a6d31c6be3a8c7a8172fe40f7ba99a591de3c1e36b90f784ee90f0de7",
+    "04f875b918df3d38a4a4992f6320498773bb4063b835bb4a860de43522ccdb99",
+    "265eb75b0fa3c9e7f2427fb492974d8fc6181bd84978819a6fa41467707a70a5",
+    "d795fe1699dbc918514373ea020828490bc6a85b6af3edb459bcd8a84753a70f",
+    "bb752f1df9c2a264df69d8092c465281f474fcd715a2057ceb244cd4f5231033",
+    "886c9b1a847f2bbe6c7b4d1b16ab94f6e1fecd029b32f7e64a96ca6917a54b71",
+    "3705bcd98b5bcb107924a5fcedcbd1787c35bac873990fbf27267a105fd5d4af",
+    "b4aa73e59f943c418d157e5043bf4ed540869dcf0167a26442c48b3e35bc0988",
+    "2e6e482da89031f038fa994d82c57fb1556d7013fd4217b0f60f414f92394449",
+    "e0ba71316f818037926516826d8e013ce934f23349d003506d8d4d6db8260ab4",
+    "be8c48ec810bd8dfee82307c77752b3953b079be0d2d0cb93052fc7bbf633c4f",
+    "cc7ee9418437093b33faf65266014936c375c6b290fb9393627aab60b61619eb",
+    "f135e4336c48cff14b7e056acb6da21c78a070f2e3d07830765519bb4762ce83"
+  ],
+  "completed_utc": "2026-09-29T18:47:36.706768+00:00",
+  "original_metadata_sha256": "cf354c0b84eff3acf671dad18984268b9bd787d91355ed4f21d6a2098c0b20d5"
+}

@@ -1,0 +1,32 @@
+{
+  "status": "FROZEN_TESTED_PAYLOAD_PORTABLE_PATHS",
+  "checker_source_original_sha256": "22065ca1a8395c0cd4537a37391c15f99a3f2f7b57cea10f891a669dbe64c2c5",
+  "checker_source_public_sha256": "22065ca1a8395c0cd4537a37391c15f99a3f2f7b57cea10f891a669dbe64c2c5",
+  "checker_source_byte_identical": true,
+  "proposer_source_tested_sha256": "de692972e5059ac8182770e8bb3610f4895be4a9111ba6894a72c810f861402d",
+  "proposer_source_public_sha256": "6f83c0a869b9d1b93aaa71b9cfdf717bd734d105c15f84d65b5d611aab908e48",
+  "proposer_changes": "Input file assignment and emitted input_path only; portable copy not rerun after research stop",
+  "input_certificate_sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+  "certificate_mappings": [
+    {
+      "file": "evidence/basis-certificate.json",
+      "original_file_sha256": "23df1cdfc6e82ae874efadf33962e1b63ab0055300856b8b7c3dfa377a8fc706",
+      "public_file_sha256": "1459d73ee32938385120e7c4a1c2ff6d494d9a0dfc5614b1fe510d7d22509032",
+      "change": "Only input_path replaced with a relative portable path; mathematical payload identical",
+      "mathematical_payload_sha256": "e562a803d2b8f67a994c4a66bf6a4558a81349e824915b84736cd8bee5c8763d"
+    },
+    {
+      "file": "evidence/failed-basis-proposal-01.json",
+      "original_file_sha256": "708e56925ef2e4b5d57111f76e2f7cc811575b86c88ab5bf94b3c47e9fbb29f4",
+      "public_file_sha256": "2d84b39e193452e5a2e4f1ed17b9797c2a1a4b68ab4afa871b4276c7fbe55c0d",
+      "change": "Only input_path replaced with a relative portable path; mathematical payload identical",
+      "mathematical_payload_sha256": "60a667f68c046b2c3e6ed68a7f1d6f3655070afe6ba544da4e5827a937ab5d90"
+    }
+  ],
+  "original_replay_receipt": "evidence/basis-replay-original.json",
+  "original_replay_status": "PASS_INDEPENDENT_EXACT_BASIS_PRIMAL_DUAL_GEOMETRY",
+  "public_copy_reexecuted_after_stop": true,
+  "unexecuted_source": "proposals/prove_core_formula_unexecuted.py",
+  "publication_replay_scope": "Frozen exact checker replay and retained negative control only. Discovery and symbolic proposal not rerun.",
+  "publication_replay_receipt": "evidence/publication-replay.json"
+}

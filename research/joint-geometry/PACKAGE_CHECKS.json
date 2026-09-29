@@ -1,0 +1,66 @@
+{
+  "status": "PASS_PUBLICATION_SYNTAX_PRIVACY_AND_IDENTITY_CHECKS",
+  "checked_utc": "2026-09-29T19:00:36.825387+00:00",
+  "mathematical_replay": false,
+  "new_research": false,
+  "syntax_checks": [
+    {
+      "file": "global-area/global_localization_test.py",
+      "check": "Python AST syntax",
+      "passed": true
+    },
+    {
+      "file": "global-area/global_rectangle_test.py",
+      "check": "Python AST syntax",
+      "passed": true
+    },
+    {
+      "file": "local-exclusion/box_linear_support.py",
+      "check": "Python AST syntax",
+      "passed": true
+    },
+    {
+      "file": "pending-round06/global_master.py",
+      "check": "Python AST syntax",
+      "passed": true
+    },
+    {
+      "file": "pending-round06/joint_disk.py",
+      "check": "Python AST syntax",
+      "passed": true
+    },
+    {
+      "file": "global-area/geometry_check.js",
+      "check": "Node syntax only; code not executed",
+      "passed": true
+    },
+    {
+      "file": "global-area/verify_global_localization_test.js",
+      "check": "Node syntax only; code not executed",
+      "passed": true
+    },
+    {
+      "file": "global-area/verify_global_rectangles.js",
+      "check": "Node syntax only; code not executed",
+      "passed": true
+    },
+    {
+      "file": "local-exclusion/verify_linear.js",
+      "check": "Node syntax only; code not executed",
+      "passed": true
+    },
+    {
+      "file": "pending-round06/geometry_check.js",
+      "check": "Node syntax only; code not executed",
+      "passed": true
+    },
+    {
+      "file": "pending-round06/verify_joint.js",
+      "check": "Node syntax only; code not executed",
+      "passed": true
+    }
+  ],
+  "source_linked_artifacts": 46,
+  "private_path_or_chat_markers_found": [],
+  "limitations": "Prior exact mathematical checks are reused from original receipts; rebased public artifacts and pending round06 checker were not mathematically replayed during wrap-up."
+}

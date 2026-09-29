@@ -1,0 +1,55 @@
+{
+  "status": "PUBLIC_COMPONENT_FILE_IDENTITIES",
+  "files": [
+    {
+      "path": "GLOBAL_PROOF_ROUTE.md",
+      "bytes": 3882,
+      "sha256": "64688224721fcf849a5d1b2a0a67462ee8c3989916bfaa0bb0778deab9f495a1"
+    },
+    {
+      "path": "check_parent.js",
+      "bytes": 3124,
+      "sha256": "e7a22f7f419084d0fe1d27fa2cb465adaf8f5db8fed9e51648b99957a060a93e"
+    },
+    {
+      "path": "check_regions.js",
+      "bytes": 1064,
+      "sha256": "35728434ee0250ec6b573763c449e3b34aa155ab27da3cbbe26579ba8d053c9f"
+    },
+    {
+      "path": "evidence/publication-witness-replay.json",
+      "bytes": 592,
+      "sha256": "1044778c5aa0877c939af3a12114d22dbbd43025c90a53b8253ced0728659b92"
+    },
+    {
+      "path": "evidence/tilt-anchor-arithmetic.json",
+      "bytes": 659,
+      "sha256": "2c75b4304e9373e476147654d3a18dfcd419e3a29150af04c54d880866ee1b55"
+    },
+    {
+      "path": "evidence/tilt-anchor-python.json",
+      "bytes": 219,
+      "sha256": "6738cf3e8ab8f8c5aa42b2fb45a9e2b5baf3cd9d80a668d0e862318e0caa59e7"
+    },
+    {
+      "path": "evidence/witness-node.json",
+      "bytes": 592,
+      "sha256": "c20ae4daeb7d3cafe2d9005bfc0be8b3a12d9665e821e9d52248a65ac0ebf9da"
+    },
+    {
+      "path": "evidence/witness-region-node.json",
+      "bytes": 372,
+      "sha256": "0943656858676ca1faa745294ddc2a071ef91b90561afeca94afc36410de07de"
+    },
+    {
+      "path": "witness-certificate.json",
+      "bytes": 1353269,
+      "sha256": "c92775e25182dc9e24f7c58307efeea375218bf128aa5d27c51da6cedeb6c2c2"
+    },
+    {
+      "path": "witness.json",
+      "bytes": 717,
+      "sha256": "2f091bd00ae35270b6345f7406563bb6ba344074731e604ab14c9ff0fb7c15b2"
+    }
+  ]
+}

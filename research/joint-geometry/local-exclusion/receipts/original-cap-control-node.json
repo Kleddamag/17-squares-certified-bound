@@ -1,0 +1,14 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_GEOMETRIC_ROW_RECONSTRUCTION",
+  "target": "4675530093604551/1000000000000000",
+  "pairs": 136,
+  "rows": 269,
+  "immediately_incompatible_pairs": 0,
+  "certificate_sha256": "ac217c5b24b372dbe66356ce16d73ac54b1034bfe250542092d5dfbfd2fd6362",
+  "exact_exclusion_surplus": "0",
+  "proved_local_exclusion": false,
+  "positive_dual_rows": 0,
+  "rational_linear_survivor": true,
+  "minimum_linear_slack": "403320975527973622634471911246302945743320178691035479343559847560713878872413/97043434351687276656315615793861873560000000000000000000000000000000000000000000000",
+  "utc": "2026-09-29T16:08:38.472Z"
+}

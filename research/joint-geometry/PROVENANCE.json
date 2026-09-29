@@ -1,0 +1,336 @@
+{
+  "status": "SANITIZED_EXPORT_EXISTING_RESULTS",
+  "created_utc": "2026-09-29T18:57:53.784683+00:00",
+  "public_replay_after_export": true,
+  "entries": [
+    {
+      "original_artifact": "round-23-proof-loop-01/outputs/domains/n64/receipt.json",
+      "original_sha256": "6c44f742af82e90f354c3d7130b0acb1d5ae32a98c67478f6cf836081df41848",
+      "public_artifact": "global-area/inputs/grid.json",
+      "public_sha256": "6c44f742af82e90f354c3d7130b0acb1d5ae32a98c67478f6cf836081df41848",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/outputs/case-model-64.json",
+      "original_sha256": "3792eb1b3e424a3a1453781810c213aeb2ab2c3aab6a48304a4b07146faa9b72",
+      "public_artifact": "global-area/inputs/reference-case.json",
+      "public_sha256": "2a30c0bba0a631897a1ea53f8ab63d0bc01c06a67760997d307a360b8683f2ce",
+      "adaptation": "Retain only exact target and selected domain IDs needed by index-template comparison; omit unrelated charge/solver rows."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/outputs/global-localization-test.json",
+      "original_sha256": "f23dfcd58dd4a83a9cf85fd094c67c2b1473c4c9f8c775ff2c8ede42c90ff98d",
+      "public_artifact": "global-area/outputs/global-localization-test.json",
+      "public_sha256": "93b9b50315871d4627ed6df31a05ebdf66f2c2f6f6e84f1162d1b6baed23e80e",
+      "adaptation": "Compact JSON; rebase two input paths and corresponding hashes. Mathematical grid/conflicts/witness unchanged."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/outputs/global-rectangle-test.json",
+      "original_sha256": "a09538821f488463d734960fc93b72733085577eb7dd5f6129c8b83d41d5a8f3",
+      "public_artifact": "global-area/outputs/global-rectangle-test.json",
+      "public_sha256": "7772f54c1db3fd26cd465ec2ce78a21fc4e3dfbdeee57fdd6492bfe330500561",
+      "adaptation": "Compact JSON; rebase dependency path/hash only. All18496 capacities and witness unchanged."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/geometry_check.js",
+      "original_sha256": "34f987071b3ec958ee5270bf5213023095f25085702c1c645be8c2f97900c401",
+      "public_artifact": "global-area/geometry_check.js",
+      "public_sha256": "34f987071b3ec958ee5270bf5213023095f25085702c1c645be8c2f97900c401",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/verify_global_localization_test.js",
+      "original_sha256": "313f055b9406c23ab4b7a1ab59a7353c62238413508765033e11e0204f7a5ae2",
+      "public_artifact": "global-area/verify_global_localization_test.js",
+      "public_sha256": "313f055b9406c23ab4b7a1ab59a7353c62238413508765033e11e0204f7a5ae2",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/verify_global_rectangles.js",
+      "original_sha256": "2c117028fac245ef5b0975684eea8ebf05bf96a28ae35a880d24a35f57f7d6ef",
+      "public_artifact": "global-area/verify_global_rectangles.js",
+      "public_sha256": "2c117028fac245ef5b0975684eea8ebf05bf96a28ae35a880d24a35f57f7d6ef",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/outputs/global-localization-test-node.json",
+      "original_sha256": "169e6435163970c69b8544476fe82e33c4d84e8ce0a1e3007a350df68741fd3c",
+      "public_artifact": "global-area/receipts/global-localization-test-node.json",
+      "public_sha256": "169e6435163970c69b8544476fe82e33c4d84e8ce0a1e3007a350df68741fd3c",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/outputs/global-rectangle-test-node.json",
+      "original_sha256": "cfcc6d89530fcf0837ffff8e54b3b8792004339d78c45e32bed74fc2296326be",
+      "public_artifact": "global-area/receipts/global-rectangle-test-node.json",
+      "public_sha256": "cfcc6d89530fcf0837ffff8e54b3b8792004339d78c45e32bed74fc2296326be",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/global_rectangle_test.py",
+      "original_sha256": "b5e9da816dcc4c474fb6d6a775de2200b018f9c1321343d6188a78cff6712d04",
+      "public_artifact": "global-area/global_rectangle_test.py",
+      "public_sha256": "b5e9da816dcc4c474fb6d6a775de2200b018f9c1321343d6188a78cff6712d04",
+      "adaptation": "Only input filesystem locations rebased for the public folder. Not rerun during wrap-up."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/global_localization_test.py",
+      "original_sha256": "2ee6df0ee685c580bae67eea450da074fcedad4ffdab985aa90d06ab477d0eae",
+      "public_artifact": "global-area/global_localization_test.py",
+      "public_sha256": "24fe556210c60ae5ae2d4f8674d300cf79d6b4372a4d0ef91ae6c941a6108d0a",
+      "adaptation": "Only input filesystem locations rebased for the public folder. Not rerun during wrap-up."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/outputs/generalize-fixed/attempt29/linear.json",
+      "original_sha256": "9e1c447c5264ff45590feb47e488c235c4d72015fbc782ecbd2d8c8242c4d62b",
+      "public_artifact": "local-exclusion/data/three-square-certificate.json",
+      "public_sha256": "d7649bf89ef8d7d2934ff7131f2cd7b9189b67b7ca2eecf6da3125351cf7668c",
+      "adaptation": "Compact JSON and remove private source_boxes pathname; all mathematical fields unchanged."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/verify_linear.js",
+      "original_sha256": "2f869418c29e58aa9d8f2f31a4420056ec99a4106f9e5b86e5eb5ba40c062965",
+      "public_artifact": "local-exclusion/verify_linear.js",
+      "public_sha256": "2f869418c29e58aa9d8f2f31a4420056ec99a4106f9e5b86e5eb5ba40c062965",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/box_linear_support.py",
+      "original_sha256": "02ad841329352283c20fe2c5c3740f33f604ec1a8811b347f159cc9bed589d15",
+      "public_artifact": "local-exclusion/box_linear_support.py",
+      "public_sha256": "02ad841329352283c20fe2c5c3740f33f604ec1a8811b347f159cc9bed589d15",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/outputs/generalize-fixed/node.json",
+      "original_sha256": "f627714069e91633a1fd24325cd49ae509495dc96184361aa04531d7fc490bf5",
+      "public_artifact": "local-exclusion/receipts/original-node.json",
+      "public_sha256": "f627714069e91633a1fd24325cd49ae509495dc96184361aa04531d7fc490bf5",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/outputs/generalized-fixed-cut.json",
+      "original_sha256": "fea287631a93dbd4a364e71dc6b20522e8ecf3b19fff1100911aee78ab24ca80",
+      "public_artifact": "local-exclusion/data/support-summary.json",
+      "public_sha256": "a0a4b51c4624666c29b7de533e10927bf514ed990c42a2974df620e3a0624fff",
+      "adaptation": "Retain support boxes and historical domain-membership summary; omit exploratory iteration log. Domain membership78 is provenance only, not replayed by the compact package."
+    },
+    {
+      "original_artifact": "round-26-proof-loop-04/outputs/coarse-tree-node.json",
+      "original_sha256": "879be16e28bdc28ebe3d1be4daf975e168d2238425f869d05c30fb668c8dcf9e",
+      "public_artifact": "historical-summaries/coarse-case-receipt.json",
+      "public_sha256": "476fb3f24de80ec94aeb5df78a1d76430a5721e795c77284afa07438fd53b9a2",
+      "adaptation": "Summary receipt only; raw traces are preserved locally and are intentionally not included for independent replay here."
+    },
+    {
+      "original_artifact": "round-27-proof-loop-05/outputs/forest-final-node.json",
+      "original_sha256": "84ce4c7aeb8f3307e6081f8a670f74cf3a3f3c18911d03d8db68cf999c289228",
+      "public_artifact": "historical-summaries/partial-forest-receipt.json",
+      "public_sha256": "26cdc5abce12c6d700eb98fd3e7d41a69fc237d3694d53189c181840b9d745c6",
+      "adaptation": "Summary receipt only; raw traces are preserved locally and are intentionally not included for independent replay here."
+    },
+    {
+      "original_artifact": "round-23-proof-loop-01/outputs/feasible-cap-control.json",
+      "original_sha256": "1508f7ee88727753955ed4806f366838a3bdd8d25d04acdb4049d73898d4f296",
+      "public_artifact": "pending-round06/inputs/feasible-cap-control.json",
+      "public_sha256": "82d2beaf264f4cf70d368033a1311467adf0711dcadf93cdc3d83864e6633904",
+      "adaptation": "Compact exact poses; remove private upstream path, retain upstream hash and geometry."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/cap-global-model.json",
+      "original_sha256": "565cf6eab17bd3e3e852dc5500218d4ca6859cdabec9f4652131273eaee77b08",
+      "public_artifact": "pending-round06/outputs/cap-global-model.json",
+      "public_sha256": "8228db28676785ae5c77117120b6e4ee41461aa1ab8bae3375b531c86209a047",
+      "adaptation": "Compact JSON; rebase cap-input path/hash. Mathematical fields unchanged; independent verification pending."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-000.json",
+      "original_sha256": "8b435dbebab4dcdaaddc928bbbd70bcc50065c8c79b03330e119e73a103624f9",
+      "public_artifact": "pending-round06/outputs/joint-000.json",
+      "public_sha256": "48c69e320d1e637d113e101332041fbdcc83aa992665ac30a5f3f3648f24c3f7",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-001.json",
+      "original_sha256": "a8d1e826b11fb606df0f2fab4d4fcfa6cba866bf20971233e45b5085dea24472",
+      "public_artifact": "pending-round06/outputs/joint-001.json",
+      "public_sha256": "eb1ee480dae0431935bcdaa1d888d245f1a5c93e0481dad203604e0b656cb652",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-002.json",
+      "original_sha256": "625d0a8124efdfd4bd3420ce4fc0682dc0ede46cbdbd2772084a01a232a80017",
+      "public_artifact": "pending-round06/outputs/joint-002.json",
+      "public_sha256": "307641d9fa98fade1a3802ed230a2478c4e115e25c3474f5afe6de74bf570e17",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-003.json",
+      "original_sha256": "5e900b584ee74bbd7b5516a766540c2579d5ebed5d4d5cdc2e0174db2043f764",
+      "public_artifact": "pending-round06/outputs/joint-003.json",
+      "public_sha256": "ce3d8a9c5eb4019e8f5994f0d6316f517da9caadc2f4248bd9b238ccde2b3fb0",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-004.json",
+      "original_sha256": "94d537bbfb30d5f6bb637dcdf74082db4266db5c94b2b3fb3aad498b1feaef4c",
+      "public_artifact": "pending-round06/outputs/joint-004.json",
+      "public_sha256": "3000377d4410884a1b16fd14c12a5e5677f6ece19498b228624c0f05f0229c04",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-005.json",
+      "original_sha256": "73479ea4de7f019b0856744558755d623bef98fe4ee972c91f10dac3c0ee76ee",
+      "public_artifact": "pending-round06/outputs/joint-005.json",
+      "public_sha256": "6dce02204dbe98f66bb6ed9fb989f6ca5833e68caa2c402aa23e4224022190ab",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-006.json",
+      "original_sha256": "8e0fe7dd60d6a697699af37e1b33e0b1c88bb10e9933d9a777cb24416d229516",
+      "public_artifact": "pending-round06/outputs/joint-006.json",
+      "public_sha256": "f23b6bc4c0de09704e8ae35f72a049c14393ef1573e775c955e7effe31cdd741",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-007.json",
+      "original_sha256": "5aa72982a796a5b6a363ffdce1ff6f41d70fec14f1c22bc24043edd8d76b0e77",
+      "public_artifact": "pending-round06/outputs/joint-007.json",
+      "public_sha256": "fff002fa887c3efc2227dc05fb7ad2eb20bfabb8c58b7c204e026b9e43cb65fd",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-008.json",
+      "original_sha256": "6047a5166ac0649010fafd78b43c4e7f5b08d858406f06883ab7e9e87a90fb93",
+      "public_artifact": "pending-round06/outputs/joint-008.json",
+      "public_sha256": "737fc8df00000f2161b0fd5ebeb0cdc71f6be46215734065296f74bd9592f564",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-009.json",
+      "original_sha256": "91f21c9c7490ebf6675916946fe07ad0983d49e5e8fcf0919d2019f3bb2f40e7",
+      "public_artifact": "pending-round06/outputs/joint-009.json",
+      "public_sha256": "a45752ed36c0619308e6f600101a6db4ff176f965e9c8e435f5db3be855ccde8",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-010.json",
+      "original_sha256": "c53b4d109468b2f74d13e0372ea6d992ddb50eca2f34049ec36f7471339d3a73",
+      "public_artifact": "pending-round06/outputs/joint-010.json",
+      "public_sha256": "6f2fcc368a41d2b0e7f8768095f924ecf8f99c542d128cab7f69dceb84d5bd25",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-011.json",
+      "original_sha256": "b8cff18dda313828a0e9a5a9221de52d02c80a21d0962b330b0a67ef3f0b7a5e",
+      "public_artifact": "pending-round06/outputs/joint-011.json",
+      "public_sha256": "c1f78558e46a51257ebdacb59df34d08d3d2ee15b0d666fcdaeae5d2c54a0374",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-012.json",
+      "original_sha256": "db61fc9baf5a8ab930b3a6e7faf6ad0af9c55f72fdcb299a75ad89b4a43e8f1c",
+      "public_artifact": "pending-round06/outputs/joint-012.json",
+      "public_sha256": "68f2dec106cd09a78e73fd74a9e96c78a08739e46595827a3e0995cd62db7d24",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-013.json",
+      "original_sha256": "480a1d12b100728f38ec6620078625715365a3751ff97e7b27c99996fbf19fa9",
+      "public_artifact": "pending-round06/outputs/joint-013.json",
+      "public_sha256": "efcb92e801dc18d22970ce36cf2345e03c3a13de3d973005b100425abd965f40",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-014.json",
+      "original_sha256": "e0d2df721bb24fcb88d2ffdb551bfbf2cf30a233471123190feeaa2204358824",
+      "public_artifact": "pending-round06/outputs/joint-014.json",
+      "public_sha256": "994d8bbedfc22b6302f293bd5b28567a28722f69e06b209ad0f6ce6ab660500d",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/joint-015.json",
+      "original_sha256": "c95322c3a3007b2c8ebdbff85bd08ae062e9af6cc68fbd37a75b6ee8b12e01a6",
+      "public_artifact": "pending-round06/outputs/joint-015.json",
+      "public_sha256": "ff7e5bccbc7eed47ccf5bfb50fd72be6e1d48791e76901d69e77aee66c435f21",
+      "adaptation": "Compact JSON; rebase model source/hash. Pending producer certificate, not an independently accepted theorem."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/old-witness-joint.json",
+      "original_sha256": "e2d86835f20cc369cb580351b402b139e34c1779fae936407a70972fcad434f0",
+      "public_artifact": "pending-round06/outputs/old-witness-joint.json",
+      "public_sha256": "95b6b52da7d9a6cc7ecdd7a44a1a5794fec4033797f2c54ccef967c6efd1e29b",
+      "adaptation": "Compact JSON; rebase prior model paths/hashes only. Pending independent replay."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/outputs/master-progress.json",
+      "original_sha256": "3bc77a1974cd3c8bc7ad6f3a34ae23a9a59a355a7d2d7f076283f1ad68186fd6",
+      "public_artifact": "pending-round06/outputs/master-progress.json",
+      "public_sha256": "65e03a603b4012b25e054c28cef62ac1e6ff4acdcff853a0062a7b0118541099",
+      "adaptation": "Compact JSON; rebase17 certificate references/hashes. Saved16-cut checkpoint remains unexhausted and independently unverified."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/verify_joint.js",
+      "original_sha256": "544f5a8fe79372be0a8574480f17f63efb4a926610e8700d751ba5792cc5afaf",
+      "public_artifact": "pending-round06/verify_joint.js",
+      "public_sha256": "544f5a8fe79372be0a8574480f17f63efb4a926610e8700d751ba5792cc5afaf",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/geometry_check.js",
+      "original_sha256": "34f987071b3ec958ee5270bf5213023095f25085702c1c645be8c2f97900c401",
+      "public_artifact": "pending-round06/geometry_check.js",
+      "public_sha256": "34f987071b3ec958ee5270bf5213023095f25085702c1c645be8c2f97900c401",
+      "adaptation": "Byte-identical copy."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/joint_disk.py",
+      "original_sha256": "0c6b7727ee5b1a05f260f86a2e50678b7b346be27a112f4e366c255b40090d71",
+      "public_artifact": "pending-round06/joint_disk.py",
+      "public_sha256": "c03732b87d4f33eadad47426c2e2f18bc507a5434f392f5537ea14e282a0b962",
+      "adaptation": "Only source locations rebased; no research rerun or independent validation during publication wrap-up."
+    },
+    {
+      "original_artifact": "round-28-proof-loop-06/global_master.py",
+      "original_sha256": "44400e71dff4cee1fe11f357bf2bddd99cf22f21ced06b2a1db44a0f1b6e210e",
+      "public_artifact": "pending-round06/global_master.py",
+      "public_sha256": "60c18bc9a2c4b22ceebf7156a685537fbc2171098153280e3c1e7d4691d3fa66",
+      "adaptation": "Only source locations rebased; no research rerun or independent validation during publication wrap-up."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/outputs/parent-n4-linear.json",
+      "original_sha256": "b4f3c301ce47905101b50ca1f89d04c649f9e50b61c64813e143141a16f2ada2",
+      "public_artifact": "local-exclusion/data/coarser-relaxation-survivor.json",
+      "public_sha256": "fa7e16420e97ec49e7dc4259ed84b7ac8cd7e3ec1959d732cc4b16bea6aa5a8f",
+      "adaptation": "Compact JSON and remove private discovery source paths; all mathematical rows, boxes, multipliers and rational centers unchanged."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/outputs/cap-control-witness.json",
+      "original_sha256": "ac217c5b24b372dbe66356ce16d73ac54b1034bfe250542092d5dfbfd2fd6362",
+      "public_artifact": "local-exclusion/data/feasible-cap-row-control.json",
+      "public_sha256": "8be943fdd3cbefde74a51361f29016c9c5a6d69a8d76632897f1c6c7ec40fb37",
+      "adaptation": "Compact JSON and remove private discovery source paths; all mathematical rows, boxes, multipliers and rational centers unchanged."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/outputs/parent-n4-node.json",
+      "original_sha256": "a58c3d7b4ec40b179634e89991a1ef3574ae21d2ef1da822f7abebb42a5d4ecf",
+      "public_artifact": "local-exclusion/receipts/original-coarser-survivor-node.json",
+      "public_sha256": "a58c3d7b4ec40b179634e89991a1ef3574ae21d2ef1da822f7abebb42a5d4ecf",
+      "adaptation": "Byte-identical original independent replay receipt."
+    },
+    {
+      "original_artifact": "round-24-proof-loop-02/outputs/cap-control-node.json",
+      "original_sha256": "21819b339cc722ab6c2ea4080195a3790585c245b1e2e191bbfe32ae218c94ed",
+      "public_artifact": "local-exclusion/receipts/original-cap-control-node.json",
+      "public_sha256": "21819b339cc722ab6c2ea4080195a3790585c245b1e2e191bbfe32ae218c94ed",
+      "adaptation": "Byte-identical original independent replay receipt."
+    }
+  ],
+  "original_frozen_manifest_sha256": {
+    "round-24-proof-loop-02": "41c296a4c7b7cbb27502552c7cbe5afa4df2abb5a049ee3c79a55aa3ab3cf8c0",
+    "round-26-proof-loop-04": "05c22bc9a85302029a185919cd5933a574cc0ba82a3b54aad0db96c1a0fb37dd",
+    "round-27-proof-loop-05": "0cb5c0c16925a3fa09b52dc20691127237b488f7f332b5b5fb14db9850c63f50",
+    "round-28-proof-loop-06": "4bbc49a9872c6eb82dbea6dec750688f138b06bb577545c8cd9f910f23e4a6e3"
+  },
+  "public_replay_scope": "Completed global-area and local-exclusion public packages only; pending-round06 and historical-summary claims not promoted."
+}

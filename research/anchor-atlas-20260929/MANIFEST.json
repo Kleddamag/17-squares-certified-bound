@@ -1,0 +1,195 @@
+{
+  "status": "PUBLIC_COMPONENT_FILE_IDENTITIES",
+  "files": [
+    {
+      "path": "CHECKPOINT.md",
+      "bytes": 4132,
+      "sha256": "d7f19e33042a160a4e74ecc9be0c4a510d63bba4940f52e0e8764e245e796fc3"
+    },
+    {
+      "path": "atlas/BUILD_COMPLETE.json",
+      "bytes": 5792,
+      "sha256": "608fca3a7db87f4b4bc3f7072f0d0609c878c8a80774731f1cfffdde0d5dc45d"
+    },
+    {
+      "path": "atlas/angle-000.json",
+      "bytes": 483849,
+      "sha256": "b00c18bb8bd19162b7e33d031943f00eb32d7f59b3d30d781e66226bd793be33"
+    },
+    {
+      "path": "atlas/angle-001.json",
+      "bytes": 421587,
+      "sha256": "862bb0af67cd3fa22d13b65b9710f269b4e73518f94044f097afe7b920b1d0b9"
+    },
+    {
+      "path": "atlas/angle-002.json",
+      "bytes": 415631,
+      "sha256": "8d268ef2bdad95e6377dc969bc1432e6ca1e759875c53317d816b70b6065ee15"
+    },
+    {
+      "path": "atlas/angle-003.json",
+      "bytes": 331425,
+      "sha256": "ad0803363a51c03b1d512373d902c1fb878b01838957e4aca1967f535e1256b4"
+    },
+    {
+      "path": "atlas/angle-004.json",
+      "bytes": 323183,
+      "sha256": "ea42a1213e269847d0d17a97abc82aaae7ff5d16e1c74cb90c2a43580265ff57"
+    },
+    {
+      "path": "atlas/angle-005.json",
+      "bytes": 238534,
+      "sha256": "6901b40a73582c7cbbe462ca9fb4ca5521a122a752820773bb96fdd59b3ce1a3"
+    },
+    {
+      "path": "atlas/angle-006.json",
+      "bytes": 301485,
+      "sha256": "ba02b35f11d3852ea0777288091737e7cbafecc2e96048071bc03cf99e49b50d"
+    },
+    {
+      "path": "atlas/angle-007.json",
+      "bytes": 239889,
+      "sha256": "7d6bd47a1b1edb90d552e1c77baa6b27d8d5b3f10ad7e3071e7b1c4f632a3763"
+    },
+    {
+      "path": "atlas/angle-008.json",
+      "bytes": 193900,
+      "sha256": "7c638edff594c949d5120eb6126f079545c3659474f4d2ccbf0c42eb20d1b583"
+    },
+    {
+      "path": "atlas/angle-009.json",
+      "bytes": 186599,
+      "sha256": "e0341d1e3f35f0dcf66a8326c9d919beb316f4c189e6cbd0af6587e0c61d8c26"
+    },
+    {
+      "path": "atlas/angle-010.json",
+      "bytes": 179671,
+      "sha256": "c0a33bdfd564bab97bf53efeab02c5c930e6d4f3e0f7f4a0ada47606363e85e0"
+    },
+    {
+      "path": "atlas/angle-011.json",
+      "bytes": 197531,
+      "sha256": "9515be026597c5e644a5d2207fb449be4359df21d1b45a7cfa4a804c54aa2792"
+    },
+    {
+      "path": "atlas/angle-012.json",
+      "bytes": 160808,
+      "sha256": "a7440fc18211bbf2c025d51b262695f543b869071114c5d1fcff49a5abe68751"
+    },
+    {
+      "path": "atlas/angle-013.json",
+      "bytes": 160130,
+      "sha256": "81511a1253ec20b7eec45e937cf3036b206e1d434fccbd3ced3dc3b1fe14757f"
+    },
+    {
+      "path": "atlas/angle-014.json",
+      "bytes": 191162,
+      "sha256": "2b0c5a7c0e7519e6bc0109d0e797be45c91541eaf9bcfff6561aa6739b3fbaa0"
+    },
+    {
+      "path": "atlas/angle-015.json",
+      "bytes": 219130,
+      "sha256": "98c2960cd9d5a498f19583c5b1cc5a5664892e7214fec7d59e960536bfb25552"
+    },
+    {
+      "path": "atlas/angle-016.json",
+      "bytes": 200040,
+      "sha256": "ec1202628432765eda170bfe06a80e8aec205b5f6a5bbcbf95768e35ef445414"
+    },
+    {
+      "path": "atlas/angle-017.json",
+      "bytes": 200439,
+      "sha256": "b7a0212a501905745cea29180d02f77bda43d13237557b9345a4c124ce3ceda4"
+    },
+    {
+      "path": "atlas/angle-018.json",
+      "bytes": 198987,
+      "sha256": "4dd34df9df5fa93b1b877a49828d3d7b17faa168c76d504c61d9abc0f5094ba9"
+    },
+    {
+      "path": "atlas/angle-019.json",
+      "bytes": 259698,
+      "sha256": "0494128a6d31c6be3a8c7a8172fe40f7ba99a591de3c1e36b90f784ee90f0de7"
+    },
+    {
+      "path": "atlas/angle-020.json",
+      "bytes": 273214,
+      "sha256": "04f875b918df3d38a4a4992f6320498773bb4063b835bb4a860de43522ccdb99"
+    },
+    {
+      "path": "atlas/angle-021.json",
+      "bytes": 296224,
+      "sha256": "265eb75b0fa3c9e7f2427fb492974d8fc6181bd84978819a6fa41467707a70a5"
+    },
+    {
+      "path": "atlas/angle-022.json",
+      "bytes": 307088,
+      "sha256": "d795fe1699dbc918514373ea020828490bc6a85b6af3edb459bcd8a84753a70f"
+    },
+    {
+      "path": "atlas/angle-023.json",
+      "bytes": 368899,
+      "sha256": "bb752f1df9c2a264df69d8092c465281f474fcd715a2057ceb244cd4f5231033"
+    },
+    {
+      "path": "atlas/angle-024.json",
+      "bytes": 355444,
+      "sha256": "886c9b1a847f2bbe6c7b4d1b16ab94f6e1fecd029b32f7e64a96ca6917a54b71"
+    },
+    {
+      "path": "atlas/angle-025.json",
+      "bytes": 366929,
+      "sha256": "3705bcd98b5bcb107924a5fcedcbd1787c35bac873990fbf27267a105fd5d4af"
+    },
+    {
+      "path": "atlas/angle-026.json",
+      "bytes": 387802,
+      "sha256": "b4aa73e59f943c418d157e5043bf4ed540869dcf0167a26442c48b3e35bc0988"
+    },
+    {
+      "path": "atlas/angle-027.json",
+      "bytes": 449330,
+      "sha256": "2e6e482da89031f038fa994d82c57fb1556d7013fd4217b0f60f414f92394449"
+    },
+    {
+      "path": "atlas/angle-028.json",
+      "bytes": 472998,
+      "sha256": "e0ba71316f818037926516826d8e013ce934f23349d003506d8d4d6db8260ab4"
+    },
+    {
+      "path": "atlas/angle-029.json",
+      "bytes": 529768,
+      "sha256": "be8c48ec810bd8dfee82307c77752b3953b079be0d2d0cb93052fc7bbf633c4f"
+    },
+    {
+      "path": "atlas/angle-030.json",
+      "bytes": 556722,
+      "sha256": "cc7ee9418437093b33faf65266014936c375c6b290fb9393627aab60b61619eb"
+    },
+    {
+      "path": "atlas/angle-031.json",
+      "bytes": 582274,
+      "sha256": "f135e4336c48cff14b7e056acb6da21c78a070f2e3d07830765519bb4762ce83"
+    },
+    {
+      "path": "atlas/metadata.json",
+      "bytes": 1022,
+      "sha256": "37207cf4ade21d3b2733436b086d0d0f164d7d03f49c88f9d4bac35f649fea09"
+    },
+    {
+      "path": "check_atlas.js",
+      "bytes": 6212,
+      "sha256": "856a898aeb8f4dc41697c4b00fbb7c348f31ba89ecc10309ec962ea7a2e99c28"
+    },
+    {
+      "path": "original-verification.json",
+      "bytes": 4393,
+      "sha256": "ef5950f456416d42c4478f6020c7f29f48334ba084c6f99a7d64172680f15a3a"
+    },
+    {
+      "path": "publication-replay.json",
+      "bytes": 3553,
+      "sha256": "72f023a4f427171cd574652bb300bd8ba0b8e48684d322ace7a3ca59994f7297"
+    }
+  ]
+}

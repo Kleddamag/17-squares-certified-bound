@@ -1,0 +1,21 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_LEGAL_PARENT_REPLAY",
+  "target": "4675530093604551/1000000000000000",
+  "certificate_sha256": "c92775e25182dc9e24f7c58307efeea375218bf128aa5d27c51da6cedeb6c2c2",
+  "records": 1,
+  "minimum_units": "747604483",
+  "budget_units": "17000402008",
+  "seventeen_charge_minus_budget": "-4291125797",
+  "frozen_strict_threshold_defeated": true,
+  "rows": [
+    {
+      "pose": [
+        "31299014973/10000000000",
+        "31299014973/10000000000",
+        "0"
+      ],
+      "charge_units": "747604483"
+    }
+  ],
+  "verified_utc": "2026-09-29T19:01:55.472Z"
+}

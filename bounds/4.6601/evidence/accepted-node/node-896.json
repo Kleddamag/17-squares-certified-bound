@@ -1,0 +1,654 @@
+{
+  "status": "PASS_INDEPENDENT_INTERVAL_PARTITION",
+  "start": 896,
+  "end_exclusive": 1024,
+  "total_intervals": 2543,
+  "minimum_units": "1000026844",
+  "budget_units": "17000402008",
+  "required_units": "1000023648",
+  "rows": [
+    {
+      "interval": 896,
+      "minimum_units": "1000026844",
+      "cells": 455951109
+    },
+    {
+      "interval": 897,
+      "minimum_units": "1000026844",
+      "cells": 455953885
+    },
+    {
+      "interval": 898,
+      "minimum_units": "1000026844",
+      "cells": 455929625
+    },
+    {
+      "interval": 899,
+      "minimum_units": "1000026844",
+      "cells": 455904397
+    },
+    {
+      "interval": 900,
+      "minimum_units": "1000026844",
+      "cells": 455877309
+    },
+    {
+      "interval": 901,
+      "minimum_units": "1000026844",
+      "cells": 455851629
+    },
+    {
+      "interval": 902,
+      "minimum_units": "1000026844",
+      "cells": 455838849
+    },
+    {
+      "interval": 903,
+      "minimum_units": "1000026844",
+      "cells": 455813449
+    },
+    {
+      "interval": 904,
+      "minimum_units": "1000026844",
+      "cells": 455848265
+    },
+    {
+      "interval": 905,
+      "minimum_units": "1000026844",
+      "cells": 455822061
+    },
+    {
+      "interval": 906,
+      "minimum_units": "1000026844",
+      "cells": 455796369
+    },
+    {
+      "interval": 907,
+      "minimum_units": "1000026844",
+      "cells": 455858601
+    },
+    {
+      "interval": 908,
+      "minimum_units": "1000026844",
+      "cells": 455832765
+    },
+    {
+      "interval": 909,
+      "minimum_units": "1000026844",
+      "cells": 455720561
+    },
+    {
+      "interval": 910,
+      "minimum_units": "1000026844",
+      "cells": 455694921
+    },
+    {
+      "interval": 911,
+      "minimum_units": "1000026844",
+      "cells": 455667389
+    },
+    {
+      "interval": 912,
+      "minimum_units": "1000026844",
+      "cells": 455720761
+    },
+    {
+      "interval": 913,
+      "minimum_units": "1000026844",
+      "cells": 455693653
+    },
+    {
+      "interval": 914,
+      "minimum_units": "1000026844",
+      "cells": 455667761
+    },
+    {
+      "interval": 915,
+      "minimum_units": "1000026844",
+      "cells": 455643441
+    },
+    {
+      "interval": 916,
+      "minimum_units": "1000026844",
+      "cells": 455617977
+    },
+    {
+      "interval": 917,
+      "minimum_units": "1000026844",
+      "cells": 455593509
+    },
+    {
+      "interval": 918,
+      "minimum_units": "1000026844",
+      "cells": 455655517
+    },
+    {
+      "interval": 919,
+      "minimum_units": "1000026844",
+      "cells": 455631705
+    },
+    {
+      "interval": 920,
+      "minimum_units": "1000026844",
+      "cells": 455691217
+    },
+    {
+      "interval": 921,
+      "minimum_units": "1000026844",
+      "cells": 455615665
+    },
+    {
+      "interval": 922,
+      "minimum_units": "1000026844",
+      "cells": 455593861
+    },
+    {
+      "interval": 923,
+      "minimum_units": "1000026844",
+      "cells": 455657625
+    },
+    {
+      "interval": 924,
+      "minimum_units": "1000026844",
+      "cells": 455114097
+    },
+    {
+      "interval": 925,
+      "minimum_units": "1000026844",
+      "cells": 455091081
+    },
+    {
+      "interval": 926,
+      "minimum_units": "1000026844",
+      "cells": 455067209
+    },
+    {
+      "interval": 927,
+      "minimum_units": "1000026844",
+      "cells": 455045669
+    },
+    {
+      "interval": 928,
+      "minimum_units": "1000026844",
+      "cells": 455024353
+    },
+    {
+      "interval": 929,
+      "minimum_units": "1000026844",
+      "cells": 455002801
+    },
+    {
+      "interval": 930,
+      "minimum_units": "1000026844",
+      "cells": 454980025
+    },
+    {
+      "interval": 931,
+      "minimum_units": "1000026844",
+      "cells": 455121697
+    },
+    {
+      "interval": 932,
+      "minimum_units": "1000026844",
+      "cells": 455097473
+    },
+    {
+      "interval": 933,
+      "minimum_units": "1000026844",
+      "cells": 455073933
+    },
+    {
+      "interval": 934,
+      "minimum_units": "1000026844",
+      "cells": 455047137
+    },
+    {
+      "interval": 935,
+      "minimum_units": "1000026844",
+      "cells": 455024097
+    },
+    {
+      "interval": 936,
+      "minimum_units": "1000026844",
+      "cells": 455000237
+    },
+    {
+      "interval": 937,
+      "minimum_units": "1000026844",
+      "cells": 454976537
+    },
+    {
+      "interval": 938,
+      "minimum_units": "1000026844",
+      "cells": 454954657
+    },
+    {
+      "interval": 939,
+      "minimum_units": "1000026844",
+      "cells": 454322093
+    },
+    {
+      "interval": 940,
+      "minimum_units": "1000026844",
+      "cells": 454414169
+    },
+    {
+      "interval": 941,
+      "minimum_units": "1000026844",
+      "cells": 454391669
+    },
+    {
+      "interval": 942,
+      "minimum_units": "1000026844",
+      "cells": 454370265
+    },
+    {
+      "interval": 943,
+      "minimum_units": "1000026844",
+      "cells": 454347501
+    },
+    {
+      "interval": 944,
+      "minimum_units": "1000026844",
+      "cells": 454323937
+    },
+    {
+      "interval": 945,
+      "minimum_units": "1000026844",
+      "cells": 454299529
+    },
+    {
+      "interval": 946,
+      "minimum_units": "1000026844",
+      "cells": 454275361
+    },
+    {
+      "interval": 947,
+      "minimum_units": "1000026844",
+      "cells": 454251773
+    },
+    {
+      "interval": 948,
+      "minimum_units": "1000026844",
+      "cells": 454227545
+    },
+    {
+      "interval": 949,
+      "minimum_units": "1000026844",
+      "cells": 454205669
+    },
+    {
+      "interval": 950,
+      "minimum_units": "1000026844",
+      "cells": 454182817
+    },
+    {
+      "interval": 951,
+      "minimum_units": "1000026844",
+      "cells": 454159853
+    },
+    {
+      "interval": 952,
+      "minimum_units": "1000026844",
+      "cells": 454280129
+    },
+    {
+      "interval": 953,
+      "minimum_units": "1000026844",
+      "cells": 454257845
+    },
+    {
+      "interval": 954,
+      "minimum_units": "1000026844",
+      "cells": 454236193
+    },
+    {
+      "interval": 955,
+      "minimum_units": "1000026844",
+      "cells": 454215337
+    },
+    {
+      "interval": 956,
+      "minimum_units": "1000026844",
+      "cells": 454193341
+    },
+    {
+      "interval": 957,
+      "minimum_units": "1000026844",
+      "cells": 454170541
+    },
+    {
+      "interval": 958,
+      "minimum_units": "1000026844",
+      "cells": 454147285
+    },
+    {
+      "interval": 959,
+      "minimum_units": "1000026844",
+      "cells": 454124117
+    },
+    {
+      "interval": 960,
+      "minimum_units": "1000026844",
+      "cells": 454671637
+    },
+    {
+      "interval": 961,
+      "minimum_units": "1000026844",
+      "cells": 454734917
+    },
+    {
+      "interval": 962,
+      "minimum_units": "1000026844",
+      "cells": 454712881
+    },
+    {
+      "interval": 963,
+      "minimum_units": "1000026844",
+      "cells": 454685301
+    },
+    {
+      "interval": 964,
+      "minimum_units": "1000026844",
+      "cells": 454922469
+    },
+    {
+      "interval": 965,
+      "minimum_units": "1000026844",
+      "cells": 454941817
+    },
+    {
+      "interval": 966,
+      "minimum_units": "1000026844",
+      "cells": 454919229
+    },
+    {
+      "interval": 967,
+      "minimum_units": "1000026844",
+      "cells": 454896925
+    },
+    {
+      "interval": 968,
+      "minimum_units": "1000026844",
+      "cells": 454859037
+    },
+    {
+      "interval": 969,
+      "minimum_units": "1000026844",
+      "cells": 454848345
+    },
+    {
+      "interval": 970,
+      "minimum_units": "1000026844",
+      "cells": 454850997
+    },
+    {
+      "interval": 971,
+      "minimum_units": "1000026844",
+      "cells": 454916281
+    },
+    {
+      "interval": 972,
+      "minimum_units": "1000026844",
+      "cells": 454894837
+    },
+    {
+      "interval": 973,
+      "minimum_units": "1000026844",
+      "cells": 454872217
+    },
+    {
+      "interval": 974,
+      "minimum_units": "1000026844",
+      "cells": 454850985
+    },
+    {
+      "interval": 975,
+      "minimum_units": "1000026844",
+      "cells": 454829077
+    },
+    {
+      "interval": 976,
+      "minimum_units": "1000026844",
+      "cells": 454805481
+    },
+    {
+      "interval": 977,
+      "minimum_units": "1000026844",
+      "cells": 454956985
+    },
+    {
+      "interval": 978,
+      "minimum_units": "1000026844",
+      "cells": 454937593
+    },
+    {
+      "interval": 979,
+      "minimum_units": "1000026844",
+      "cells": 454916261
+    },
+    {
+      "interval": 980,
+      "minimum_units": "1000026844",
+      "cells": 454893205
+    },
+    {
+      "interval": 981,
+      "minimum_units": "1000026844",
+      "cells": 454769161
+    },
+    {
+      "interval": 982,
+      "minimum_units": "1000026844",
+      "cells": 454758193
+    },
+    {
+      "interval": 983,
+      "minimum_units": "1000026844",
+      "cells": 454748209
+    },
+    {
+      "interval": 984,
+      "minimum_units": "1000026844",
+      "cells": 454913517
+    },
+    {
+      "interval": 985,
+      "minimum_units": "1000026844",
+      "cells": 454918741
+    },
+    {
+      "interval": 986,
+      "minimum_units": "1000026844",
+      "cells": 454897905
+    },
+    {
+      "interval": 987,
+      "minimum_units": "1000026844",
+      "cells": 454964609
+    },
+    {
+      "interval": 988,
+      "minimum_units": "1000026844",
+      "cells": 454827625
+    },
+    {
+      "interval": 989,
+      "minimum_units": "1000026844",
+      "cells": 454805565
+    },
+    {
+      "interval": 990,
+      "minimum_units": "1000026844",
+      "cells": 454696653
+    },
+    {
+      "interval": 991,
+      "minimum_units": "1000026844",
+      "cells": 454676509
+    },
+    {
+      "interval": 992,
+      "minimum_units": "1000026844",
+      "cells": 454743197
+    },
+    {
+      "interval": 993,
+      "minimum_units": "1000026844",
+      "cells": 454719385
+    },
+    {
+      "interval": 994,
+      "minimum_units": "1000026844",
+      "cells": 454696265
+    },
+    {
+      "interval": 995,
+      "minimum_units": "1000026844",
+      "cells": 454674957
+    },
+    {
+      "interval": 996,
+      "minimum_units": "1000026844",
+      "cells": 454652529
+    },
+    {
+      "interval": 997,
+      "minimum_units": "1000026844",
+      "cells": 454714705
+    },
+    {
+      "interval": 998,
+      "minimum_units": "1000026844",
+      "cells": 454775905
+    },
+    {
+      "interval": 999,
+      "minimum_units": "1000026844",
+      "cells": 454750869
+    },
+    {
+      "interval": 1000,
+      "minimum_units": "1000026844",
+      "cells": 454725173
+    },
+    {
+      "interval": 1001,
+      "minimum_units": "1000026844",
+      "cells": 454699969
+    },
+    {
+      "interval": 1002,
+      "minimum_units": "1000026844",
+      "cells": 454674857
+    },
+    {
+      "interval": 1003,
+      "minimum_units": "1000026844",
+      "cells": 454796441
+    },
+    {
+      "interval": 1004,
+      "minimum_units": "1000026844",
+      "cells": 454947241
+    },
+    {
+      "interval": 1005,
+      "minimum_units": "1000026844",
+      "cells": 455094005
+    },
+    {
+      "interval": 1006,
+      "minimum_units": "1000026844",
+      "cells": 455067217
+    },
+    {
+      "interval": 1007,
+      "minimum_units": "1000026844",
+      "cells": 455041265
+    },
+    {
+      "interval": 1008,
+      "minimum_units": "1000026844",
+      "cells": 455015537
+    },
+    {
+      "interval": 1009,
+      "minimum_units": "1000026844",
+      "cells": 454991245
+    },
+    {
+      "interval": 1010,
+      "minimum_units": "1000026844",
+      "cells": 454967413
+    },
+    {
+      "interval": 1011,
+      "minimum_units": "1000026844",
+      "cells": 454941349
+    },
+    {
+      "interval": 1012,
+      "minimum_units": "1000026844",
+      "cells": 455003497
+    },
+    {
+      "interval": 1013,
+      "minimum_units": "1000026844",
+      "cells": 454978081
+    },
+    {
+      "interval": 1014,
+      "minimum_units": "1000026844",
+      "cells": 454953429
+    },
+    {
+      "interval": 1015,
+      "minimum_units": "1000026844",
+      "cells": 454902613
+    },
+    {
+      "interval": 1016,
+      "minimum_units": "1000026844",
+      "cells": 454878013
+    },
+    {
+      "interval": 1017,
+      "minimum_units": "1000026844",
+      "cells": 454851993
+    },
+    {
+      "interval": 1018,
+      "minimum_units": "1000026844",
+      "cells": 454912433
+    },
+    {
+      "interval": 1019,
+      "minimum_units": "1000026844",
+      "cells": 454885273
+    },
+    {
+      "interval": 1020,
+      "minimum_units": "1000026844",
+      "cells": 454857781
+    },
+    {
+      "interval": 1021,
+      "minimum_units": "1000026844",
+      "cells": 454831089
+    },
+    {
+      "interval": 1022,
+      "minimum_units": "1000026844",
+      "cells": 455119977
+    },
+    {
+      "interval": 1023,
+      "minimum_units": "1000026844",
+      "cells": 455092249
+    }
+  ],
+  "certificate_sha256": "bed6e09d568a88c0801bcf35d2a1ccab7ca4ce8666601e41de4832f35840daca",
+  "seconds": 24.004,
+  "verified_utc": "2026-09-29T17:10:25.600Z"
+}

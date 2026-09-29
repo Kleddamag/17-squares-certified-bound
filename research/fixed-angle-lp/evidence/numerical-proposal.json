@@ -1,0 +1,6 @@
+{
+  "status": 0,
+  "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "side": 4.675530093604551,
+  "seconds": 0.06385684013366699
+}

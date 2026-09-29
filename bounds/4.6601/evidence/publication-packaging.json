@@ -1,0 +1,20 @@
+{
+  "status": "PASS_BOUNDED_PUBLICATION_PACKAGING_VERIFICATION",
+  "certificate_sha256": "bed6e09d568a88c0801bcf35d2a1ccab7ca4ce8666601e41de4832f35840daca",
+  "full_accepted_replays_reused": true,
+  "fresh_full_bound_replay_performed": false,
+  "original_python_and_independent_node_smoke_intervals": [
+    0
+  ],
+  "smoke_minimum": 1000026844,
+  "smoke_cells": 417280133,
+  "all_target_geometry_and_charge_premises_validated": true,
+  "portable_atlas_all_cells_replayed": 32768,
+  "portable_witness_replayed": true,
+  "private_path_scan_passed": true,
+  "python_syntax_passed": true,
+  "node_syntax_passed": true,
+  "launcher_help_passed": true,
+  "started_utc": "2026-09-29T19:01:51.301105+00:00",
+  "completed_utc": "2026-09-29T19:01:55.776528+00:00"
+}

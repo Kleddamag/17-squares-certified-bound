@@ -13,7 +13,7 @@ specifically `certificates/lower_bound_4p614153/certificate.json` with SHA-256
 The pinned source attribution is retained in `NOTICES/Mira-ATTRIBUTION.md`.
 The original upstream certificate and source code are not bundled here.
 
-Our certificate changes and enlarges the spatial support, introduces weighted
+The initial certificate changes and enlarges the spatial support, introduces weighted
 two-of-three site charges, changes weights, and refines the angle catalogue.
 Its final geometry and weights are exact rational data and are checked afresh.
 
@@ -26,9 +26,9 @@ the strict lower bound `461300000000/99974999999`. Its parent-side reduction,
 strict containment and expanded-centre-domain replay are part of this
 continuation's direct lineage.
 
-The secondary checker adapts R038's
+The legacy v1.0.0 secondary checker adapts R038's
 [`src/exact_parent_side_scan.js`](https://github.com/Guzhou0806/n17-square-packing/blob/32edfd3da78bf80a309398f552b3b602b9c45d6c/certificates/R038/src/exact_parent_side_scan.js).
-We added support for the finer coordinate denominator, point-orbit format,
+The adaptation adds support for the finer coordinate denominator, point-orbit format,
 weighted two-of-three rectangles, generalized input identity and budget checks.
 The distributed adaptation contains this project's edits; unchanged upstream
 source is fetched locally from the pinned public revision.
@@ -39,7 +39,7 @@ source is fetched locally from the pinned public revision.
 | Reconstructed checker used in completed verification | `b145b1ebbb2d3a0dccba62ee7b5ed64403bf0542ce5e8ee87113977df917faa4` |
 
 R038's attribution and licence-scope notices, and the repository notice at
-that commit, are preserved verbatim under `NOTICES/`.
+that commit, are preserved verbatim under `NOTICES/`. Relative links inside those archived notices refer to the pinned upstream repository, not this repository.
 
 ## Joshua Levy / the squares project
 
@@ -60,12 +60,12 @@ third-party works or extend to Guzhou/Mira material merely by association.
 
 The upper-bound construction is a rational reconstruction of the established
 [Bidwell 17-square packing](https://kingbird.myphotos.cc/packing/square-17.svg).
-We verified the supplied rational coordinates exactly. This is not a newly
+The supplied rational coordinates were verified exactly. This is not a newly
 discovered packing and does not improve that established construction.
 
-## This continuation
+## The original release (v1.0.0)
 
-The new milestone is the certificate for `s(17) > 461300/99853`, together with
+The original release contains the certificate for `s(17) > 461300/99853`, together with
 the exact charge argument, the independently written Python polygon-edge
 checker, the adapted secondary checker, independent premise controls and
 completed verification records. Numerical optimization and AI exploration
@@ -74,10 +74,23 @@ work is explained in [AUTHORS.md](AUTHORS.md).
 
 ## The 4.640020 continuation (v1.1.0)
 
-The current certificate proves `s(17)>232001/50000`. It continues the same attributed weighted-covering and strict-core lineage, with larger charge dictionaries, ordinary k-of-n thresholds, weighted thresholds and pairwise-intersecting winning-subset rules. Separate Codex tasks combined completed geometry and counterexamples before reoptimization and exact verification. We make no claim that these general mathematical ideas were newly invented here.
+The v1.1.0 certificate proves `s(17)>232001/50000`. It continues the same attributed weighted-covering and strict-core lineage, with larger charge dictionaries, ordinary k-of-n thresholds, weighted thresholds and pairwise-intersecting winning-subset rules. The construction combined retained geometric constraints before reoptimization and exact verification. This project makes no claim that these general mathematical ideas were newly invented here.
 
-The newly bundled `bounds/4.640020/verify_global_variable.js` is this project's separately implemented general-rule BigInt checker, paired with the general-rule Python polygon sweep. It is distinct from the legacy R038 download/adaptation path retained for v1.0.0. The new certificate and both engines were fully replayed together before release. No code from the colleague's later R052/C++ repository was used. The earlier source pins and notices above remain part of the historical lineage.
+The newly bundled `bounds/4.640020/verify_global_variable.js` is this project's separately implemented general-rule BigInt checker, paired with the general-rule Python polygon sweep. It is distinct from the legacy R038 download/adaptation path retained for v1.0.0. The new certificate and both engines were fully replayed together before release. The earlier source pins and notices above remain part of the historical lineage.
 
 ## The 4.66001 continuation
 
 The package under `bounds/4.66001/` continues the same attributed weighted-covering and strict-core method. It preserves the general-rule Python and separately implemented BigInt engines from the 4.640020 package byte-for-byte. It combines two completed charge candidates and regenerates strict cores for refined orientation intervals. No novelty claim is made for the general method, and no external Guzhou source or C++ code is included in or executed by this proof path.
+
+## The 4.6601 continuation and research checkpoint (v1.2.0)
+
+The package under `bounds/4.6601/` retains the accepted charge features and
+weights, refines the target-specific orientation/core geometry, and preserves
+the original Python and separately implemented JavaScript BigInt mathematical
+engines. Complete exact checks establish the stronger bound. The checkpoint
+under `research/` records additional geometric restrictions and unfinished
+proof routes with their individual verification scopes. No exact-optimality or
+method-priority claim is made. Mathematical lessons from
+[11SquaresOptimal](https://github.com/Queuingtheorydotcom/11SquaresOptimal)
+helped emphasize joint compatibility and exhaustive case coverage; that
+repository's S11 claims are not premises of this S17 certificate.

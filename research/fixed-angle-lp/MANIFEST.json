@@ -1,0 +1,90 @@
+{
+  "scope": "Frozen public fixed-angle LP contribution; completed portable checker replay during publication validation.",
+  "files": [
+    {
+      "path": "PROOF_GAP.md",
+      "bytes": 2090,
+      "sha256": "9d440d4451365cd47fc3a99ed1ff924c6b18465f8696b6e3b2686ea7973fd437"
+    },
+    {
+      "path": "PROOF_REDUCTION_DRAFT.md",
+      "bytes": 7973,
+      "sha256": "6fdb430aa268718605302dacfdbbfbc522cdf707011528c476023634c5e4acec"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3329,
+      "sha256": "5247871f5cb17ba921c9d11120550f18b7f82438f2ccaa506fa5108e1196e167"
+    },
+    {
+      "path": "REPRODUCE.md",
+      "bytes": 2030,
+      "sha256": "aa67abecde00f6f4f998bff79242bf680a4bf022f35cfa2c4f3955b6b9fe314b"
+    },
+    {
+      "path": "data/upper-packing-certificate.json",
+      "bytes": 6323,
+      "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+    },
+    {
+      "path": "evidence/basis-certificate.json",
+      "bytes": 45164,
+      "sha256": "1459d73ee32938385120e7c4a1c2ff6d494d9a0dfc5614b1fe510d7d22509032"
+    },
+    {
+      "path": "evidence/basis-packing.json",
+      "bytes": 19119,
+      "sha256": "ff8d22aaba6f07a68d5efece4fd2fa7651e4ae8e33c15cb5f2670d30789c81e6"
+    },
+    {
+      "path": "evidence/basis-replay-original.json",
+      "bytes": 1107,
+      "sha256": "66dd369831335014b766c297829417ac515a1d8c6b37402f325dcf4303e1ce36"
+    },
+    {
+      "path": "evidence/exact-pivots.json",
+      "bytes": 1495,
+      "sha256": "1320ddaed9b1dcf46dfbfffb23cf5d21501057cbff1d9eb56054449fd09470b5"
+    },
+    {
+      "path": "evidence/failed-basis-proposal-01.json",
+      "bytes": 60816,
+      "sha256": "2d84b39e193452e5a2e4f1ed17b9797c2a1a4b68ab4afa871b4276c7fbe55c0d"
+    },
+    {
+      "path": "evidence/numerical-proposal.json",
+      "bytes": 161,
+      "sha256": "8ae1ebfca49a2cc89b9fc0952b349d9e42f8628b8f680b9b1f46e278c615beb3"
+    },
+    {
+      "path": "evidence/publication-negative-control.json",
+      "bytes": 415,
+      "sha256": "1b60e60c2adcebe7fc8138031ebb76754206b4d212860b43fd4ded24914519ae"
+    },
+    {
+      "path": "evidence/publication-replay.json",
+      "bytes": 1107,
+      "sha256": "e753c26e5a9bc8950ad05093666970f83a8f91f19f20769d3d3e802b8a5e3ee4"
+    },
+    {
+      "path": "proposals/prove_core_formula_unexecuted.py",
+      "bytes": 2549,
+      "sha256": "24e6272ea52b21d748b43e68cd087af7fd044cd3a4a7b131a866ffebf32ecd56"
+    },
+    {
+      "path": "source/check_basis.js",
+      "bytes": 6770,
+      "sha256": "22065ca1a8395c0cd4537a37391c15f99a3f2f7b57cea10f891a669dbe64c2c5"
+    },
+    {
+      "path": "source/propose_basis.py",
+      "bytes": 7064,
+      "sha256": "6f83c0a869b9d1b93aaa71b9cfdf717bd734d105c15f84d65b5d611aab908e48"
+    },
+    {
+      "path": "source-provenance.json",
+      "bytes": 2168,
+      "sha256": "132aef2d56a6bf14c558e95ffa1d12f93f4c1991794ad69e0f9f8ee3c40ab340"
+    }
+  ]
+}

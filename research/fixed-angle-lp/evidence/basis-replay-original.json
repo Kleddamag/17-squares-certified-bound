@@ -1,0 +1,23 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_BASIS_PRIMAL_DUAL_GEOMETRY",
+  "start_utc": "2026-09-29T18:49:29.939Z",
+  "completion_utc": "2026-09-29T18:49:31.290Z",
+  "certificate_sha256": "23df1cdfc6e82ae874efadf33962e1b63ab0055300856b8b7c3dfa377a8fc706",
+  "checker_sha256": "22065ca1a8395c0cd4537a37391c15f99a3f2f7b57cea10f891a669dbe64c2c5",
+  "input_sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+  "variables": 35,
+  "selected_rows": 204,
+  "basis_rank": 35,
+  "unit_squares": 17,
+  "pairs": 136,
+  "vertices": 68,
+  "positive_duals": 9,
+  "zero_duals": 26,
+  "side": "7448175573257293533814487914959776656873172972146966082553516000000000000000000000000000000000000000000000000000000000000/1593012005942453594995482595827410409676982557571903636356705891592435437135274399111469908672531696314985570000312252359",
+  "lp_primal_min": "0",
+  "dual_min": "0",
+  "wall_clearance_min": "0",
+  "pair_clearance_min": "0",
+  "original_cap_admitted": true,
+  "scope": "optimum of selected-separator LP at these fixed rational angles; not optimum over separators or independent angles"
+}

@@ -1,37 +1,29 @@
-# Human direction and AI contribution
+# Contributions
 
-**Kleddamag** initiated and directed this project, set the goal of proving the
-minimum or finding a better packing, required reproducible exact evidence,
-challenged limiting assumptions, supplied the stronger public R038 reference,
-requested distinct approaches and independent challenges, and chose to publish
-this verified milestone. Kleddamag is the repository owner and release maintainer.
+**Kleddamag** initiated and directed the project, set its research goals and
+verification requirements, and maintains this repository and its releases.
 
 **OpenAI Codex** performed the mathematical exploration, developed and ran the
-computational searches, implemented and adapted checkers, constructed the
-rational certificate, ran exact verification, and prepared the proof,
-documentation and release. Three Codex subagents explored distinct approaches
-and challenged results; an audit branch used separately written premise and
-boundary checks. These were AI-assisted computational audits within the same
-project.
+computational searches, implemented and adapted checkers, constructed rational
+certificates, ran exact verification, and prepared the proof and documentation.
 
-The record does not establish that the human maintainer personally derived all
-algorithms, wrote all code, or checked every proof line. “Independent” in the
-verification descriptions refers to distinct implementations or separately
-written audits. It does not imply independent human peer review, an external
-research group's replication, or proof-assistant formalization.
+The 4.640020 continuation developed larger threshold-charge families and checked
+them with the general-rule Python and JavaScript engines. The 4.66001 certificate
+combines two charge candidates and regenerates strict cores after subdividing
+eight orientation intervals. Both complete implementations were replayed on the
+final fixed certificate before publication.
 
-The theorem is supported by its mathematical argument, fixed rational input,
-and executable exact checks. It does not depend on the authority of the
-maintainer or the AI system. Corrections and external verification are welcome.
+The 4.6601 continuation keeps those charges and refines target-specific core
+geometry. Three research directions also contributed the separately labeled
+global restrictions, joint-geometry experiments and LP-basis proof proposal in
+`research/`. These exploratory contributions do not establish an exact optimum.
 
-Upstream contributions are identified in [ATTRIBUTION.md](ATTRIBUTION.md).
-Attribution does not imply upstream endorsement, coauthorship of this
-continuation, or approval of its claims.
+“Independent” verification refers to separately implemented checkers or audits
+within this project. It does not mean external human peer review or
+proof-assistant formalization. The mathematical argument, fixed rational input
+and executable checks are the basis for the result. External reproduction and
+corrections are welcome.
 
-## The 4.640020 continuation
-
-Kleddamag directed successive research comparisons, asked that completed findings be shared, and authorized this release. Separate Codex research tasks developed ordinary threshold geometry and weighted/intersecting rules, combined their retained evidence, and constructed and exactly checked the 4.640020 certificate. A coordinating Codex task replayed both full implementations and prepared the portable publication package. The C++ performance work is separate from this release's Python/JavaScript proof paths. This does not change the distinction above between human direction, AI mathematical/implementation work and independent human peer review.
-
-## The 4.66001 continuation
-
-Kleddamag directed the C/D research comparisons and authorized this GitHub update. The certificate combines completed charges from both Codex tasks; eight orientation intervals were subdivided with regenerated strict cores. A coordinating Codex task replayed both full mathematical implementations and prepared this portable package. No independent human peer review is claimed.
+Upstream contributions and source revisions are identified in
+[Attribution](ATTRIBUTION.md). Credit does not imply upstream endorsement or
+coauthorship of this continuation.

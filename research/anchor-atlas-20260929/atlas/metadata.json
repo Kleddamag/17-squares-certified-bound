@@ -1,0 +1,25 @@
+{
+  "status": "EXHAUSTIVE_CLOSED_POSE_GRID_WITH_CERTIFIED_HIGH_CHARGE_EXCLUSIONS_FOR_LOW_ANCHOR_ONLY",
+  "source_certificate": "../../../bounds/4.6601/certificate.json",
+  "source_sha256": "bed6e09d568a88c0801bcf35d2a1ccab7ca4ce8666601e41de4832f35840daca",
+  "L": "4613/1000",
+  "A_min": "4613000000000000/4675530093604551",
+  "A_max": "46130/46601",
+  "upper_side": "4675530093604551/1000000000000000",
+  "lower_side": "46601/10000",
+  "coordinate_denominator": 10000000000,
+  "center_grid": 32,
+  "angle_grid": 32,
+  "half_angle_range": [
+    "0",
+    "1"
+  ],
+  "anchor_threshold": 1000023647,
+  "budget": 17000402008,
+  "cell_capacity": 1,
+  "capacity_reason": "2*(L/N)^2 < A_min^2; disjoint inscribed disks require center distance>=A",
+  "charge_scope": "Lower bound from sites strictly contained for every center and angle in a closed cell, at every A>=A_min",
+  "non_anchor_high_charge_cells_retained": true,
+  "coincident_and_distinct_anchors_retained": true,
+  "started_utc": "2026-09-29T18:47:28.725640+00:00"
+}

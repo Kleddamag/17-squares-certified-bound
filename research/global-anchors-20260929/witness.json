@@ -1,0 +1,24 @@
+{
+  "target": "4675530093604551/1000000000000000",
+  "records": [
+    {
+      "pose": [
+        "31299014973/10000000000",
+        "31299014973/10000000000",
+        "0"
+      ],
+      "parent_side": "4613000000000000/4675530093604551",
+      "exact_actual_parent_charge_units": 747604483,
+      "nearest_wall_center_distances": [
+        "14830985027/10000000000",
+        "14830985027/10000000000"
+      ],
+      "outside_corner_region": true,
+      "center_farther_than_A_from_every_wall": true
+    }
+  ],
+  "minimum_units": 747604483,
+  "budget_units": 17000402008,
+  "certificate_sha256": "c92775e25182dc9e24f7c58307efeea375218bf128aa5d27c51da6cedeb6c2c2",
+  "completed_utc": "2026-09-29T18:14:55.167066+00:00"
+}

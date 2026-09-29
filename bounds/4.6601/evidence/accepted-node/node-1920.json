@@ -1,0 +1,654 @@
+{
+  "status": "PASS_INDEPENDENT_INTERVAL_PARTITION",
+  "start": 1920,
+  "end_exclusive": 2048,
+  "total_intervals": 2543,
+  "minimum_units": "1000026844",
+  "budget_units": "17000402008",
+  "required_units": "1000023648",
+  "rows": [
+    {
+      "interval": 1920,
+      "minimum_units": "1000026844",
+      "cells": 437764365
+    },
+    {
+      "interval": 1921,
+      "minimum_units": "1000026844",
+      "cells": 437763717
+    },
+    {
+      "interval": 1922,
+      "minimum_units": "1000026844",
+      "cells": 437762965
+    },
+    {
+      "interval": 1923,
+      "minimum_units": "1000026844",
+      "cells": 437762421
+    },
+    {
+      "interval": 1924,
+      "minimum_units": "1000026844",
+      "cells": 437768029
+    },
+    {
+      "interval": 1925,
+      "minimum_units": "1000026844",
+      "cells": 437761741
+    },
+    {
+      "interval": 1926,
+      "minimum_units": "1000026844",
+      "cells": 437762389
+    },
+    {
+      "interval": 1927,
+      "minimum_units": "1000026844",
+      "cells": 437746985
+    },
+    {
+      "interval": 1928,
+      "minimum_units": "1000026844",
+      "cells": 437639793
+    },
+    {
+      "interval": 1929,
+      "minimum_units": "1000026844",
+      "cells": 437626469
+    },
+    {
+      "interval": 1930,
+      "minimum_units": "1000026844",
+      "cells": 437611337
+    },
+    {
+      "interval": 1931,
+      "minimum_units": "1000026844",
+      "cells": 437595833
+    },
+    {
+      "interval": 1932,
+      "minimum_units": "1000026844",
+      "cells": 437582865
+    },
+    {
+      "interval": 1933,
+      "minimum_units": "1000026844",
+      "cells": 437569153
+    },
+    {
+      "interval": 1934,
+      "minimum_units": "1000026844",
+      "cells": 437555221
+    },
+    {
+      "interval": 1935,
+      "minimum_units": "1000026844",
+      "cells": 437539321
+    },
+    {
+      "interval": 1936,
+      "minimum_units": "1000026844",
+      "cells": 437524529
+    },
+    {
+      "interval": 1937,
+      "minimum_units": "1000026844",
+      "cells": 437510965
+    },
+    {
+      "interval": 1938,
+      "minimum_units": "1000026844",
+      "cells": 437498633
+    },
+    {
+      "interval": 1939,
+      "minimum_units": "1000026844",
+      "cells": 437484633
+    },
+    {
+      "interval": 1940,
+      "minimum_units": "1000026844",
+      "cells": 437307805
+    },
+    {
+      "interval": 1941,
+      "minimum_units": "1000026844",
+      "cells": 437295133
+    },
+    {
+      "interval": 1942,
+      "minimum_units": "1000026844",
+      "cells": 437281665
+    },
+    {
+      "interval": 1943,
+      "minimum_units": "1000026844",
+      "cells": 437267709
+    },
+    {
+      "interval": 1944,
+      "minimum_units": "1000026844",
+      "cells": 436977837
+    },
+    {
+      "interval": 1945,
+      "minimum_units": "1000026844",
+      "cells": 436964329
+    },
+    {
+      "interval": 1946,
+      "minimum_units": "1000026844",
+      "cells": 436951337
+    },
+    {
+      "interval": 1947,
+      "minimum_units": "1000026844",
+      "cells": 436873905
+    },
+    {
+      "interval": 1948,
+      "minimum_units": "1000026844",
+      "cells": 436860913
+    },
+    {
+      "interval": 1949,
+      "minimum_units": "1000026844",
+      "cells": 436847253
+    },
+    {
+      "interval": 1950,
+      "minimum_units": "1000026844",
+      "cells": 436834577
+    },
+    {
+      "interval": 1951,
+      "minimum_units": "1000026844",
+      "cells": 436821837
+    },
+    {
+      "interval": 1952,
+      "minimum_units": "1000026844",
+      "cells": 436808377
+    },
+    {
+      "interval": 1953,
+      "minimum_units": "1000026844",
+      "cells": 436794169
+    },
+    {
+      "interval": 1954,
+      "minimum_units": "1000026844",
+      "cells": 436967633
+    },
+    {
+      "interval": 1955,
+      "minimum_units": "1000026844",
+      "cells": 436954813
+    },
+    {
+      "interval": 1956,
+      "minimum_units": "1000026844",
+      "cells": 436940437
+    },
+    {
+      "interval": 1957,
+      "minimum_units": "1000026844",
+      "cells": 436914521
+    },
+    {
+      "interval": 1958,
+      "minimum_units": "1000026844",
+      "cells": 436913945
+    },
+    {
+      "interval": 1959,
+      "minimum_units": "1000026844",
+      "cells": 436912841
+    },
+    {
+      "interval": 1960,
+      "minimum_units": "1000026844",
+      "cells": 436911989
+    },
+    {
+      "interval": 1961,
+      "minimum_units": "1000026844",
+      "cells": 436911113
+    },
+    {
+      "interval": 1962,
+      "minimum_units": "1000026844",
+      "cells": 436910257
+    },
+    {
+      "interval": 1963,
+      "minimum_units": "1000026844",
+      "cells": 436909397
+    },
+    {
+      "interval": 1964,
+      "minimum_units": "1000026844",
+      "cells": 436908953
+    },
+    {
+      "interval": 1965,
+      "minimum_units": "1000026844",
+      "cells": 436908281
+    },
+    {
+      "interval": 1966,
+      "minimum_units": "1000026844",
+      "cells": 436907393
+    },
+    {
+      "interval": 1967,
+      "minimum_units": "1000026844",
+      "cells": 436906525
+    },
+    {
+      "interval": 1968,
+      "minimum_units": "1000026844",
+      "cells": 436905821
+    },
+    {
+      "interval": 1969,
+      "minimum_units": "1000026844",
+      "cells": 436904865
+    },
+    {
+      "interval": 1970,
+      "minimum_units": "1000026844",
+      "cells": 436904229
+    },
+    {
+      "interval": 1971,
+      "minimum_units": "1000026844",
+      "cells": 436903613
+    },
+    {
+      "interval": 1972,
+      "minimum_units": "1000026844",
+      "cells": 436902965
+    },
+    {
+      "interval": 1973,
+      "minimum_units": "1000026844",
+      "cells": 436907909
+    },
+    {
+      "interval": 1974,
+      "minimum_units": "1000026844",
+      "cells": 436756533
+    },
+    {
+      "interval": 1975,
+      "minimum_units": "1000026844",
+      "cells": 436756753
+    },
+    {
+      "interval": 1976,
+      "minimum_units": "1000026844",
+      "cells": 436736325
+    },
+    {
+      "interval": 1977,
+      "minimum_units": "1000026844",
+      "cells": 436729521
+    },
+    {
+      "interval": 1978,
+      "minimum_units": "1000026844",
+      "cells": 436723625
+    },
+    {
+      "interval": 1979,
+      "minimum_units": "1000026844",
+      "cells": 436717681
+    },
+    {
+      "interval": 1980,
+      "minimum_units": "1000026844",
+      "cells": 436705153
+    },
+    {
+      "interval": 1981,
+      "minimum_units": "1000026844",
+      "cells": 436704277
+    },
+    {
+      "interval": 1982,
+      "minimum_units": "1000026844",
+      "cells": 436703545
+    },
+    {
+      "interval": 1983,
+      "minimum_units": "1000026844",
+      "cells": 436702817
+    },
+    {
+      "interval": 1984,
+      "minimum_units": "1000026844",
+      "cells": 436702013
+    },
+    {
+      "interval": 1985,
+      "minimum_units": "1000026844",
+      "cells": 436701273
+    },
+    {
+      "interval": 1986,
+      "minimum_units": "1000026844",
+      "cells": 436700545
+    },
+    {
+      "interval": 1987,
+      "minimum_units": "1000026844",
+      "cells": 436699945
+    },
+    {
+      "interval": 1988,
+      "minimum_units": "1000026844",
+      "cells": 436699069
+    },
+    {
+      "interval": 1989,
+      "minimum_units": "1000026844",
+      "cells": 436698097
+    },
+    {
+      "interval": 1990,
+      "minimum_units": "1000026844",
+      "cells": 436697109
+    },
+    {
+      "interval": 1991,
+      "minimum_units": "1000026844",
+      "cells": 436696293
+    },
+    {
+      "interval": 1992,
+      "minimum_units": "1000026844",
+      "cells": 436695469
+    },
+    {
+      "interval": 1993,
+      "minimum_units": "1000026844",
+      "cells": 436694817
+    },
+    {
+      "interval": 1994,
+      "minimum_units": "1000026844",
+      "cells": 436694117
+    },
+    {
+      "interval": 1995,
+      "minimum_units": "1000026844",
+      "cells": 436693293
+    },
+    {
+      "interval": 1996,
+      "minimum_units": "1000026844",
+      "cells": 436692117
+    },
+    {
+      "interval": 1997,
+      "minimum_units": "1000026844",
+      "cells": 436691145
+    },
+    {
+      "interval": 1998,
+      "minimum_units": "1000026844",
+      "cells": 436690557
+    },
+    {
+      "interval": 1999,
+      "minimum_units": "1000026844",
+      "cells": 436689857
+    },
+    {
+      "interval": 2000,
+      "minimum_units": "1000026844",
+      "cells": 436689197
+    },
+    {
+      "interval": 2001,
+      "minimum_units": "1000026844",
+      "cells": 436688709
+    },
+    {
+      "interval": 2002,
+      "minimum_units": "1000026844",
+      "cells": 436688045
+    },
+    {
+      "interval": 2003,
+      "minimum_units": "1000026844",
+      "cells": 436692389
+    },
+    {
+      "interval": 2004,
+      "minimum_units": "1000026844",
+      "cells": 436691909
+    },
+    {
+      "interval": 2005,
+      "minimum_units": "1000026844",
+      "cells": 436691245
+    },
+    {
+      "interval": 2006,
+      "minimum_units": "1000026844",
+      "cells": 436691073
+    },
+    {
+      "interval": 2007,
+      "minimum_units": "1000026844",
+      "cells": 436690433
+    },
+    {
+      "interval": 2008,
+      "minimum_units": "1000026844",
+      "cells": 436689485
+    },
+    {
+      "interval": 2009,
+      "minimum_units": "1000026844",
+      "cells": 436688625
+    },
+    {
+      "interval": 2010,
+      "minimum_units": "1000026844",
+      "cells": 436688069
+    },
+    {
+      "interval": 2011,
+      "minimum_units": "1000026844",
+      "cells": 436687217
+    },
+    {
+      "interval": 2012,
+      "minimum_units": "1000026844",
+      "cells": 436686449
+    },
+    {
+      "interval": 2013,
+      "minimum_units": "1000026844",
+      "cells": 436685557
+    },
+    {
+      "interval": 2014,
+      "minimum_units": "1000026844",
+      "cells": 436684893
+    },
+    {
+      "interval": 2015,
+      "minimum_units": "1000026844",
+      "cells": 436684073
+    },
+    {
+      "interval": 2016,
+      "minimum_units": "1000026844",
+      "cells": 436683253
+    },
+    {
+      "interval": 2017,
+      "minimum_units": "1000026844",
+      "cells": 436682413
+    },
+    {
+      "interval": 2018,
+      "minimum_units": "1000026844",
+      "cells": 436681505
+    },
+    {
+      "interval": 2019,
+      "minimum_units": "1000026844",
+      "cells": 436680921
+    },
+    {
+      "interval": 2020,
+      "minimum_units": "1000026844",
+      "cells": 436680085
+    },
+    {
+      "interval": 2021,
+      "minimum_units": "1000026844",
+      "cells": 436679105
+    },
+    {
+      "interval": 2022,
+      "minimum_units": "1000026844",
+      "cells": 436678429
+    },
+    {
+      "interval": 2023,
+      "minimum_units": "1000026844",
+      "cells": 436677321
+    },
+    {
+      "interval": 2024,
+      "minimum_units": "1000026844",
+      "cells": 436676585
+    },
+    {
+      "interval": 2025,
+      "minimum_units": "1000026844",
+      "cells": 436675873
+    },
+    {
+      "interval": 2026,
+      "minimum_units": "1000026844",
+      "cells": 436674869
+    },
+    {
+      "interval": 2027,
+      "minimum_units": "1000026844",
+      "cells": 436673961
+    },
+    {
+      "interval": 2028,
+      "minimum_units": "1000026844",
+      "cells": 436687369
+    },
+    {
+      "interval": 2029,
+      "minimum_units": "1000026844",
+      "cells": 436675733
+    },
+    {
+      "interval": 2030,
+      "minimum_units": "1000026844",
+      "cells": 436664285
+    },
+    {
+      "interval": 2031,
+      "minimum_units": "1000026844",
+      "cells": 436650501
+    },
+    {
+      "interval": 2032,
+      "minimum_units": "1000026844",
+      "cells": 436630913
+    },
+    {
+      "interval": 2033,
+      "minimum_units": "1000026844",
+      "cells": 436625161
+    },
+    {
+      "interval": 2034,
+      "minimum_units": "1000026844",
+      "cells": 436619301
+    },
+    {
+      "interval": 2035,
+      "minimum_units": "1000026844",
+      "cells": 436522057
+    },
+    {
+      "interval": 2036,
+      "minimum_units": "1000026844",
+      "cells": 436522637
+    },
+    {
+      "interval": 2037,
+      "minimum_units": "1000026844",
+      "cells": 436510265
+    },
+    {
+      "interval": 2038,
+      "minimum_units": "1000026844",
+      "cells": 436498717
+    },
+    {
+      "interval": 2039,
+      "minimum_units": "1000026844",
+      "cells": 436486613
+    },
+    {
+      "interval": 2040,
+      "minimum_units": "1000026844",
+      "cells": 436475089
+    },
+    {
+      "interval": 2041,
+      "minimum_units": "1000026844",
+      "cells": 436464165
+    },
+    {
+      "interval": 2042,
+      "minimum_units": "1000026844",
+      "cells": 436453545
+    },
+    {
+      "interval": 2043,
+      "minimum_units": "1000026844",
+      "cells": 436540949
+    },
+    {
+      "interval": 2044,
+      "minimum_units": "1000026844",
+      "cells": 436530005
+    },
+    {
+      "interval": 2045,
+      "minimum_units": "1000026844",
+      "cells": 436518017
+    },
+    {
+      "interval": 2046,
+      "minimum_units": "1000026844",
+      "cells": 436505969
+    },
+    {
+      "interval": 2047,
+      "minimum_units": "1000026844",
+      "cells": 436493261
+    }
+  ],
+  "certificate_sha256": "bed6e09d568a88c0801bcf35d2a1ccab7ca4ce8666601e41de4832f35840daca",
+  "seconds": 25.138,
+  "verified_utc": "2026-09-29T17:11:39.384Z"
+}

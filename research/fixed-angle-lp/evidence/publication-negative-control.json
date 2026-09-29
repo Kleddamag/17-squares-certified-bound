@@ -1,0 +1,10 @@
+{
+  "status": "EXPECTED_REJECTION",
+  "checker": "source/check_basis.js",
+  "certificate": "evidence/failed-basis-proposal-01.json",
+  "certificate_sha256": "2d84b39e193452e5a2e4f1ed17b9797c2a1a4b68ab4afa871b4276c7fbe55c0d",
+  "exit_code": 1,
+  "error": "LP primal violation",
+  "scope": "Retained floating basis proposal correctly rejected by exact checker.",
+  "checked_utc": "2026-09-29T19:08:12.384141+00:00"
+}

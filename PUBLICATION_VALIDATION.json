@@ -1,0 +1,24 @@
+{
+  "status": "PASS_PUBLICATION_INTEGRATION_CHECKS",
+  "created_utc": "2026-09-29T19:08:12.384141+00:00",
+  "bound": "46601/10000",
+  "certificate_sha256": "bed6e09d568a88c0801bcf35d2a1ccab7ca4ce8666601e41de4832f35840daca",
+  "full_bound_replay_reused": true,
+  "fresh_full_bound_replay": false,
+  "accepted_verification_completed_utc": "2026-09-29T17:12:02.399633+00:00",
+  "all_2543_python_node_native_interval_rows_compared": true,
+  "mathematical_engine_identities_verified": true,
+  "C_bounded_packaging_receipt": "bounds/4.6601/evidence/publication-packaging.json",
+  "D_portable_replays": [
+    "research/joint-geometry/global-area/outputs/global-localization-test-node.json",
+    "research/joint-geometry/global-area/outputs/global-rectangle-test-node.json",
+    "research/joint-geometry/local-exclusion/outputs/three-square-node.json",
+    "research/joint-geometry/local-exclusion/outputs/coarser-survivor-node.json",
+    "research/joint-geometry/local-exclusion/outputs/cap-control-node.json"
+  ],
+  "E_portable_replay": "research/fixed-angle-lp/evidence/publication-replay.json",
+  "E_expected_rejection": "research/fixed-angle-lp/evidence/publication-negative-control.json",
+  "upper_construction_fresh_replay": "PASS 17 squares, 68 vertices, 136 pairs at 4675530093604551/10^15",
+  "pending_new_cuts_replayed": false,
+  "global_optimality": false
+}

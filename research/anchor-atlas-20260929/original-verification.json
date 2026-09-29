@@ -1,0 +1,230 @@
+{
+  "status": "PASS_COMPLETE_INDEPENDENT_EXACT_PARAMETER_ATLAS",
+  "original_metadata_sha256": "cf354c0b84eff3acf671dad18984268b9bd787d91355ed4f21d6a2098c0b20d5",
+  "original_build_sha256": "5d298e546a0c253751622f5b2fd2183ba3399017d57964be1859ab2aaaac2038",
+  "original_checker_sha256": "9c08e5cfa6a1465f2b4b8db92f7f04df5480c2d4156638a18c3369ce4ac419f2",
+  "portable_metadata_sha256": "37207cf4ade21d3b2733436b086d0d0f164d7d03f49c88f9d4bac35f649fea09",
+  "portable_build_sha256": "608fca3a7db87f4b4bc3f7072f0d0609c878c8a80774731f1cfffdde0d5dc45d",
+  "portable_checker_sha256": "856a898aeb8f4dc41697c4b00fbb7c348f31ba89ecc10309ec962ea7a2e99c28",
+  "angles": 32,
+  "cells": 32768,
+  "rows": [
+    {
+      "angle": 0,
+      "illegal": 348,
+      "retained": 488,
+      "high": 188
+    },
+    {
+      "angle": 1,
+      "illegal": 348,
+      "retained": 520,
+      "high": 156
+    },
+    {
+      "angle": 2,
+      "illegal": 348,
+      "retained": 532,
+      "high": 144
+    },
+    {
+      "angle": 3,
+      "illegal": 348,
+      "retained": 556,
+      "high": 120
+    },
+    {
+      "angle": 4,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 5,
+      "illegal": 448,
+      "retained": 484,
+      "high": 92
+    },
+    {
+      "angle": 6,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 7,
+      "illegal": 448,
+      "retained": 480,
+      "high": 96
+    },
+    {
+      "angle": 8,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 9,
+      "illegal": 448,
+      "retained": 496,
+      "high": 80
+    },
+    {
+      "angle": 10,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 11,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 12,
+      "illegal": 448,
+      "retained": 508,
+      "high": 68
+    },
+    {
+      "angle": 13,
+      "illegal": 448,
+      "retained": 508,
+      "high": 68
+    },
+    {
+      "angle": 14,
+      "illegal": 448,
+      "retained": 500,
+      "high": 76
+    },
+    {
+      "angle": 15,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 16,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 17,
+      "illegal": 448,
+      "retained": 492,
+      "high": 84
+    },
+    {
+      "angle": 18,
+      "illegal": 448,
+      "retained": 488,
+      "high": 88
+    },
+    {
+      "angle": 19,
+      "illegal": 448,
+      "retained": 472,
+      "high": 104
+    },
+    {
+      "angle": 20,
+      "illegal": 448,
+      "retained": 468,
+      "high": 108
+    },
+    {
+      "angle": 21,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 22,
+      "illegal": 448,
+      "retained": 464,
+      "high": 112
+    },
+    {
+      "angle": 23,
+      "illegal": 448,
+      "retained": 444,
+      "high": 132
+    },
+    {
+      "angle": 24,
+      "illegal": 448,
+      "retained": 452,
+      "high": 124
+    },
+    {
+      "angle": 25,
+      "illegal": 448,
+      "retained": 444,
+      "high": 132
+    },
+    {
+      "angle": 26,
+      "illegal": 348,
+      "retained": 536,
+      "high": 140
+    },
+    {
+      "angle": 27,
+      "illegal": 348,
+      "retained": 516,
+      "high": 160
+    },
+    {
+      "angle": 28,
+      "illegal": 348,
+      "retained": 504,
+      "high": 172
+    },
+    {
+      "angle": 29,
+      "illegal": 348,
+      "retained": 476,
+      "high": 200
+    },
+    {
+      "angle": 30,
+      "illegal": 348,
+      "retained": 464,
+      "high": 212
+    },
+    {
+      "angle": 31,
+      "illegal": 348,
+      "retained": 456,
+      "high": 220
+    }
+  ],
+  "parts": [
+    {
+      "start": 0,
+      "end": 8,
+      "verified_utc": "2026-09-29T18:50:05.205Z"
+    },
+    {
+      "start": 8,
+      "end": 16,
+      "verified_utc": "2026-09-29T18:50:05.069Z"
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "verified_utc": "2026-09-29T18:50:05.141Z"
+    },
+    {
+      "start": 24,
+      "end": 32,
+      "verified_utc": "2026-09-29T18:50:05.302Z"
+    }
+  ],
+  "completed_utc": "2026-09-29T18:50:05.310670+00:00",
+  "portability_changes": "Only the metadata source path, its dependent metadata/build hashes, and checker path resolution changed; every mathematical angle file is byte-identical.",
+  "no_joint_optimality_claim": true
+}
